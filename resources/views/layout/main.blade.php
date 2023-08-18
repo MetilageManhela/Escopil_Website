@@ -7,14 +7,14 @@ Ocorrencias
 @section('conteudo')
 
 <div id="slider-one" class="main-slider-area">
-    <div class="slider-bg">
+    <div class="slider-bg" style="background-color: #415ca4">
         <div class="sliders-active owl-carousel owl-theme">
-            <div class="item">
+            <div class="item" style="background-color: #415ca4">
                 <div class="container custom-container-slider">
                     <div class="dodlle-one"></div>
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
-                    <div class="row align-items-center">
+                    <div class="row align-items-center" style="background-color: #415ca4">
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
@@ -38,12 +38,12 @@ Ocorrencias
                     </div>
                 </div>
             </div>
-            <div class="item">
-                <div class="container custom-container-slider">
+            <div class="item" style="background-color: #415ca4">
+                <div class="container custom-container-slider" style="background-color: #415ca4">
                     <div class="dodlle-one"></div>
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
-                    <div class="row align-items-center">
+                    <div class="row align-items-center" style="background-color: #415ca4">
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
@@ -68,12 +68,12 @@ Ocorrencias
                     </div>
                 </div>
             </div>
-            <div class="item">
+            <div class="item" style="background-color: #415ca4">
                 <div class="container custom-container-slider">
                     <div class="dodlle-one"></div>
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
-                    <div class="row align-items-center">
+                    <div class="row align-items-center" style="background-color: #415ca4">
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
@@ -507,8 +507,8 @@ Ocorrencias
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
-                <h2 class="cta-title mb-30">Let’s discuss about how we can help
-                    make your business better</h2>
+                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar 
+                    a tornar seu negócio melhor</h2>
             </div>
             <div class="col-lg-4 col-md-12 text-center text-lg-end">
                 <div class="cta-box mb-30">
