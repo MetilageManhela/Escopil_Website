@@ -94,8 +94,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/hero-man-3.png" alt="Hero Img">
-                                
+                                <img class="img-fluid" src="assets/img/slider/friends.png" alt="Hero Img">  
                             </div>
                         </div>
                     </div>
