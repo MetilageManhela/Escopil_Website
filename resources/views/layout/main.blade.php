@@ -62,7 +62,12 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
+<<<<<<< HEAD
                                 <img class="img-fluid" src="assets/img/slider/ima2.png" alt="Hero Img">
+=======
+                                <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
+
+>>>>>>> 54b5f184cd4c3f51370e72c2aca30521ac6113a4
                             </div>
                         </div>
                     </div>
@@ -111,7 +116,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-1.png" alt="Feature Iocn">
                     <h2>Visão</h2>
                     <h6><span>01.</span> Business Strategy &</h6>
-                   
+
                 </div>
             </div>
             <div class="col-lg-4" >
@@ -119,7 +124,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-2.png" alt="Feature Iocn">
                     <h2>Missão</h2>
                     <h6><span>02.</span> Private Internet Access</h6>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4">
@@ -127,7 +132,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-3.png" alt="Feature Iocn">
                     <h2>Valores</h2>
                     <h6><span>03.</span> Customer Strategy &</h6>
-                   
+
                 </div>
             </div>
         </div>
@@ -507,7 +512,7 @@ Ocorrencias
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
-                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar 
+                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar
                     a tornar seu negócio melhor</h2>
             </div>
             <div class="col-lg-4 col-md-12 text-center text-lg-end">

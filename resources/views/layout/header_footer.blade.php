@@ -14,7 +14,7 @@
 	<!-- CSS here -->
 	<link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/owl.carousel.min.css')}}" />
-	<link rel="stylesheet" href="{{asset('assets/css/animate.css')}}" />
+	<link rel="stylesheet" href="{{asset('git imate.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/all.min.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/gt-font.css')}}" />
@@ -341,7 +341,7 @@
 								<li><a href="index-6_onepage.html">Onepage Style 6</a></li>
 								<li><a href="index-7_onepage.html">Onepage Style 7</a></li>
 							</ul>
-						</li>						
+						</li>
 					</ul>
 				</li>
 				<li class="has-dropdown">
@@ -381,10 +381,10 @@
 
 	<main>
 		<!--slider-area start-->
-		
+
 			@yield('conteudo')
-	 
-		 
+
+
 
 	</main>
 	<!--footer-area start-->
