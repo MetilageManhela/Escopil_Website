@@ -32,10 +32,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                {{-- <img class="img-fluid" src="assets/img/slider/hero-man-2.png" alt="Hero Img"> --}}
-                                {{-- <img class="img-fluid" src="{{ asset('/assets/imagens/dese.jpg') }}" alt="Hero Img"> --}}
-                                <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
-
+                                <img class="img-fluid" src="assets/img/slider/pexels-anna.png" alt="Hero Img">
                             </div>
                         </div>
                     </div>
@@ -65,7 +62,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                {{-- <img class="img-fluid" src="{{ asset('/assets/imagens/Cloud-Server-PNG.png') }}" alt="Hero Img"> --}}
+                                <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
 
                             </div>
                         </div>
@@ -511,7 +508,7 @@ Ocorrencias
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
-                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar 
+                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar
                     a tornar seu negócio melhor</h2>
             </div>
             <div class="col-lg-4 col-md-12 text-center text-lg-end">
