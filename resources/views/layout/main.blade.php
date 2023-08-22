@@ -259,7 +259,7 @@ Ocorrencias
     <div class="container border-line pb-60">
         <div class="row">
             <div class="col-12 brand-title mb-60">
-                <h5 class="border-bg">Happy Users</h5>
+                <h5 class="border-bg">Nossos Parceiros</h5>
             </div>
         </div>
         <div class="row">
@@ -301,7 +301,7 @@ Ocorrencias
     </div>
 </section>
 <!--brand-area end-->
-<!--faq-area start-->
+<!--faq-area start
 <section class="faq-area pt-60 pb-90 pt-md-50 pb-md-30 pt-xs-50 pb-xs-30">
     <div class="container">
         <div class="row">
@@ -388,7 +388,7 @@ Ocorrencias
         </div>
     </div>
 </section>
-<!--faq-area end-->
+faq-area end-->
 <!--portfolio-area start-->
 <section class="grey-bg2 portfolio-area portfolio-nav pt-120 pb-120 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
     <div class="container">
@@ -396,7 +396,7 @@ Ocorrencias
             <div class="col-lg-12">
                 <div class="section-title text-center mb-60">
                     <h6 class="semi-title mb-10">Portfolio</h6>
-                    <h2 class="sect-title">Company Case Study</h2>
+                    <h2 class="sect-title">Nossos Trabalhos</h2>
                 </div>
             </div>
         </div>
