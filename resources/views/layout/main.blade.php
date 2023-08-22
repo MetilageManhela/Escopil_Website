@@ -152,8 +152,8 @@ Ocorrencias
             <div class="col-lg-6">
                 <div class="about-content-wrapper pl-60">
                     <div class="section-title">
-                        <h6 class="semi-title mb-10">About Us</h6>
-                        <h2 class="sect-title mb-30">Reliable & Cost
+                        <h6 class="semi-title mb-10">Sobre Nós</h6>
+                        <h2 class="sect-title mb-30">Missão & Visão
                             <span class="bottom-shape">Efficiant</span> Consulting</h2>
                         <p class="paragraph-title">Seamlessly visualize quality intellectual capital
                             without superior collaboration and base portals. <strong>$0 Monthly Service
@@ -166,11 +166,11 @@ Ocorrencias
                         <div class="nav nav-tabs mb-25" id="nav-tab" role="tablist">
                             <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home"
-                                aria-selected="true">01. <span>Our Goals</span> <i
+                                aria-selected="true">01. <span>Visão</span> <i
                                     class="fal fa-long-arrow-down"></i></button>
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-profile" type="button" role="tab"
-                                aria-controls="nav-profile" aria-selected="false">02. <span>Our Mission</span>
+                                aria-controls="nav-profile" aria-selected="false">02. <span>Missão</span>
                                 <i class="fal fa-long-arrow-down"></i></button>
                         </div>
                     </nav>
