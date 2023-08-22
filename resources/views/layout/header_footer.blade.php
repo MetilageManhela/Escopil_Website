@@ -14,7 +14,7 @@
 	<!-- CSS here -->
 	<link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/owl.carousel.min.css')}}" />
-	<link rel="stylesheet" href="{{asset('assets/css/animate.css')}}" />
+	<link rel="stylesheet" href="{{asset('git imate.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/all.min.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/gt-font.css')}}" />
@@ -44,13 +44,13 @@
 	<!-- preloader end  -->
 	<!-- header-area start -->
 	<header>
-		<div class="header-top heding-bg">
+		<div class="header-top heding-bg" style="background-color: white">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-md-6 col-6">
 						<div class="left-cta">
-							<span><i class="fal fa-envelope"></i> info@webmaill.com</span>
-							<span><i class="fal fa-phone"></i> 890. 896. 675. 80</span>
+							<span style="color: #415ca4"><i class="fal fa-envelope"></i> info@webmail.com</span>
+							<span style="color: #415ca4"><i class="fal fa-phone"></i> 890. 896. 675. 80</span>
 						</div>
 					</div>
 					<div class="col-md-6 col-6 text-end">
@@ -78,7 +78,7 @@
 				<div class="row pt-25">
 					<div class="col-xl-4 col-lg-3 d-none d-lg-inline-block">
 						<div class="logo-area">
-							<a class="head-logo-1" href="index.html"><img src="assets/img/logo/logo-1.png"
+							<a class="head-logo-1" href="/"><img src="assets/img/logo/ESCOPIL-11.png" style="height: 80px"
 									alt="Header-logo"></a>
 						</div>
 					</div>
@@ -98,15 +98,15 @@
 									<span>Sunday: <strong>Closed</strong></span>
 								</div>
 							</li>
-							<li>
-								<a class="theme_btn quote-btn" href="contact.html">Get A Quote</a>
-							</li>
+							{{-- <li style="background-color: #415ca4">
+								<a class=" " href="contact.html">Get A Quote</a>
+							</li> --}}
 						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="heding-bg-1" id="hideshow-sticky-menu">
+		<div class="heding-bg-1" id="hideshow-sticky-menu" style="background-color: #415ca4">
 			<div class="main-header-area">
 				<div class="container">
 					<div class="white-bg row align-items-center gx-0">
@@ -121,7 +121,7 @@
 											<li class="nav-item dropdown active">
 												<a class="nav-link dropdown-toggle" href="{{route('home.page')}}"
 													{{-- id="navbarDropdown1" role="button" data-bs-toggle="dropdown" --}}
-													aria-expanded="false">Home
+													aria-expanded="false">Menu
 													<i class="fal fa-chevron-down"></i></a>
 												{{-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
 													<li class="dropdown-submenu">
@@ -187,12 +187,12 @@
 												</ul> --}}
 											</li>
 											<li class="nav-item">
-												<a class="nav-link" href="{{route('about_us.page')}}">About</a>
+												<a class="nav-link" href="{{route('about_us.page')}}">Sobre Nós</a>
 											</li>
 											<li class="nav-item dropdown">
 												<a class="nav-link dropdown-toggle" href="services.html"
 													id="navbarDropdow2" role="button" data-bs-toggle="dropdown"
-													aria-expanded="false">Services <i
+													aria-expanded="false">Serviços <i
 														class="fal fa-chevron-down"></i></a>
 												<ul class="dropdown-menu">
 													<li>
@@ -237,7 +237,7 @@
 											<li class="nav-item dropdown">
 												<a class="nav-link dropdown-toggle" href="blog.html"
 													id="navbarDropdown5" role="button" data-bs-toggle="dropdown"
-													aria-expanded="false">News</a>
+													aria-expanded="false">Novidades</a>
 												<ul class="dropdown-menu" aria-labelledby="navbarDropdown5">
 													<li>
 														<a class="dropdown-item" href="{{route('blog.page')}}">Blog</a>
@@ -249,7 +249,7 @@
 												</ul>
 											</li>
 											<li class="nav-item">
-												<a class="nav-link" href="{{route('contacto.page')}}">Contact</a>
+												<a class="nav-link" href="{{route('contacto.page')}}">Contacto</a>
 											</li>
 										</ul>
 									</div>
