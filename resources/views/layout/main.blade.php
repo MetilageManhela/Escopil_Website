@@ -32,7 +32,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/hero-man-2.png" alt="Hero Img">
+                                <img class="img-fluid" src="assets/img/slider/pexels-anna.png" alt="Hero Img">
                             </div>
                         </div>
                     </div>
