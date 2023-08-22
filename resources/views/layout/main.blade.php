@@ -146,7 +146,7 @@ Ocorrencias
             <div class="col-lg-6">
                 <div class="about-img-wrapper pos-rel mb-30">
                     <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape">
-                    <img class="img-fluid" src="{{asset('assets/img/about/about-1.jgg')}}" alt="About Img">
+                    <img class="img-fluid" src="{{asset('assets/img/about/about-1.jpg')}}" alt="About Img">
                 </div>
             </div>
             <div class="col-lg-6">
