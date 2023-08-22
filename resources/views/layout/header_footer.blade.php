@@ -49,7 +49,7 @@
 				<div class="row align-items-center">
 					<div class="col-md-6 col-6">
 						<div class="left-cta">
-							<span><i class="fal fa-envelope"></i> info@webmail.com</span>
+							<span><i class="fal fa-envelope"></i> info@webmaill.com</span>
 							<span><i class="fal fa-phone"></i> 890. 896. 675. 80</span>
 						</div>
 					</div>
@@ -341,7 +341,7 @@
 								<li><a href="index-6_onepage.html">Onepage Style 6</a></li>
 								<li><a href="index-7_onepage.html">Onepage Style 7</a></li>
 							</ul>
-						</li>						
+						</li>
 					</ul>
 				</li>
 				<li class="has-dropdown">
@@ -381,10 +381,10 @@
 
 	<main>
 		<!--slider-area start-->
-		
+
 			@yield('conteudo')
-	 
-		 
+
+
 
 	</main>
 	<!--footer-area start-->

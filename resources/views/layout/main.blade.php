@@ -32,7 +32,10 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/hero-man-2.png" alt="Hero Img">
+                                {{-- <img class="img-fluid" src="assets/img/slider/hero-man-2.png" alt="Hero Img"> --}}
+                                {{-- <img class="img-fluid" src="{{ asset('/assets/imagens/dese.jpg') }}" alt="Hero Img"> --}}
+                                <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
+
                             </div>
                         </div>
                     </div>
@@ -62,7 +65,8 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/hero-man-1.png" alt="Hero Img">
+                                {{-- <img class="img-fluid" src="{{ asset('/assets/imagens/Cloud-Server-PNG.png') }}" alt="Hero Img"> --}}
+
                             </div>
                         </div>
                     </div>
@@ -111,7 +115,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-1.png" alt="Feature Iocn">
                     <h2>Visão</h2>
                     <h6><span>01.</span> Business Strategy &</h6>
-                   
+
                 </div>
             </div>
             <div class="col-lg-4" >
@@ -119,7 +123,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-2.png" alt="Feature Iocn">
                     <h2>Missão</h2>
                     <h6><span>02.</span> Private Internet Access</h6>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4">
@@ -127,7 +131,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-3.png" alt="Feature Iocn">
                     <h2>Valores</h2>
                     <h6><span>03.</span> Customer Strategy &</h6>
-                   
+
                 </div>
             </div>
         </div>
