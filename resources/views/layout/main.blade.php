@@ -62,12 +62,9 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-<<<<<<< HEAD
-                                <img class="img-fluid" src="assets/img/slider/ima2.png" alt="Hero Img">
-=======
+                              
                                 <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
 
->>>>>>> 54b5f184cd4c3f51370e72c2aca30521ac6113a4
                             </div>
                         </div>
                     </div>
@@ -98,6 +95,7 @@ Ocorrencias
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
                                 <img class="img-fluid" src="assets/img/slider/hero-man-3.png" alt="Hero Img">
+                                
                             </div>
                         </div>
                     </div>
