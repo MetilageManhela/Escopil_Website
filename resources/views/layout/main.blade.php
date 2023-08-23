@@ -199,7 +199,7 @@ Ocorrencias
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center mb-45">
-                    <h6 class="semi-title mb-10">Services</h6>
+                    <h6 class="semi-title mb-10">Serviços</h6>
                     <h2 class="sect-title">Nossos serviço</h2>
                 </div>
             </div>
