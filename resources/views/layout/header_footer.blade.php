@@ -46,11 +46,11 @@
 	<header>
 		<div class="header-top heding-bg" style="background-color: white">
 			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-md-6 col-6">
+				<div class="row align-items-center" >
+					<div class="col-md-6 col-6" >
 						<div class="left-cta">
-							<span style="color: #415ca4"><i class="fal fa-envelope"></i> info@webmail.com</span>
-							<span style="color: #415ca4"><i class="fal fa-phone"></i> 890. 896. 675. 80</span>
+							<span style="color: #245FA7"><i class="fal fa-envelope"></i> info@webmail.com</span>
+							<span style="color: #245FA7"><i class="fal fa-phone"></i> 890. 896. 675. 80</span>
 						</div>
 					</div>
 					<div class="col-md-6 col-6 text-end">
@@ -86,16 +86,16 @@
 						<ul class="right-query mb-0">
 							<li>
 								<div class="icon"><i class="fal fa-map-marker-alt"></i></div>
-								<div class="query-list">
-									<span>1010 Avenue of the Moon</span>
-									<span>New York, NY 10018 US.</span>
+								<div class="query-list" style="color: #245FA7">
+									<span style="color: #245FA7">1010 Avenue of the Moon</span>
+									<span style="color: #245FA7">New York, NY 10018 US.</span>
 								</div>
 							</li>
 							<li>
-								<div class="icon"><i class="fal fa-clock"></i></div>
-								<div class="query-list">
-									<span>Mon - Sat 8.00 - 18.00</span>
-									<span>Sunday: <strong>Closed</strong></span>
+								<div class="icon" ><i class="fal fa-clock"></i></div>
+								<div class="query-list" style="color: #245FA7">
+									<span style="color: #245FA7">Mon - Sat 8.00 - 18.00</span>
+									<span style="color: #245FA7">Sunday: <strong>Closed</strong></span>
 								</div>
 							</li>
 							{{-- <li style="background-color: #415ca4">
@@ -106,7 +106,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="heding-bg-1" id="hideshow-sticky-menu" style="background-color: #415ca4">
+		<div class="heding-bg-1" id="hideshow-sticky-menu" style="background-color: #245FA7">
 			<div class="main-header-area">
 				<div class="container">
 					<div class="white-bg row align-items-center gx-0">
@@ -388,7 +388,7 @@
 
 	</main>
 	<!--footer-area start-->
-	<footer class="heding-bg footer-area pt-100">
+	<footer class="heding-bg footer-area pt-100" style="background-color: #245FA7">
 		<div class="container">
 			<div class="row mb-15">
 				<div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay=".1s">
@@ -437,14 +437,14 @@
 					<div class="footer__widget mb-30">
 						<h6 class="widget-title text-white pb-20 mb-35">Subscribe Now</h6>
 						<form class="subscribe-form" action="#">
-							<div class="input-box mb-10">
+							<div class="input-box mb-10" >
 								<input type="text" placeholder="Your name">
 							</div>
 							<div class="input-box mail-input mb-10">
 								<input type="text" placeholder="Enter email address">
 							</div>
 
-							<button class="theme_btn subscribe-btn">Subscribe Now <i
+							<button class="theme_btn subscribe-btn" style="background-color: ">Subscribe Now <i
 									class="fal fa-long-arrow-right"></i></button>
 						</form>
 					</div>
@@ -455,7 +455,7 @@
 			<div class="row white-bg align-items-center">
 				<div class="col-lg-6 col-md-4 text-center text-md-start">
 					<div class="logo-area pl-25 pt-20 mb-20">
-						<a href="index.html"><img src="{{asset('assets/img/logo/footer-logo-1.png')}}" alt="Footer-logo"></a>
+						<a href="index.html"><img style="width: 100px; height: 50px;" src="{{asset('assets/img/logo/ESCOPIL-11.png')}}" alt="Footer-logo"></a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-8 text-center text-md-end">

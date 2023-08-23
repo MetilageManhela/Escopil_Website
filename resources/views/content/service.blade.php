@@ -18,7 +18,7 @@ Ocorrencias
                             <li><a href="#">Home /</a></li>
                             <li class="active" aria-current="page">Our Services</li>
                         </ul>
-                        <h2 class="page-title">What We Do</h2>
+                        <h2 class="page-title">Nossos Trabalhos</h2>
                     </div>
                 </div>
             </div>
@@ -35,11 +35,9 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/service-1.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> Asset
-                                Management</h5>
-                            <p>Become faster, more flexible, and intensely
-                                customer-focused.</p>
-                            <a class="service-btn" href="services-details.html">More Details <i
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> Infra-Estrutura</h5>
+                            <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
+                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -50,10 +48,9 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/service-2.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon"> Smart
-                                Manufacturing</h5>
-                            <p>Become faster, more flexible, and intensely customer-focused.</p>
-                            <a class="service-btn" href="services-details.html">More Details <i
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon">segurança</h5>
+                            <p>O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos...</p>
+                            <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -64,10 +61,9 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/service-3.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon3.png" alt="Icon"> Life
-                                Insurance</h5>
-                            <p>Become faster, more flexible, and intensely customer-focused.</p>
-                            <a class="service-btn" href="services-details.html">More Details <i
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon3.png" alt="Icon"> R&D</h5>
+                            <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
+                            <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>

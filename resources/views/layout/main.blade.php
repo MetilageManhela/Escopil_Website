@@ -7,26 +7,24 @@ Ocorrencias
 @section('conteudo')
 
 <div id="slider-one" class="main-slider-area">
-    <div class="slider-bg" style="background-color: #415ca4">
+    <div class="slider-bg" style="background-color: #245FA7">
         <div class="sliders-active owl-carousel owl-theme">
-            <div class="item" style="background-color: #415ca4">
+            <div class="item" style="background-color: #245FA7">
                 <div class="container custom-container-slider">
                     <div class="dodlle-one"></div>
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
-                    <div class="row align-items-center" style="background-color: #415ca4">
+                    <div class="row align-items-center" style="background-color: #245FA7">
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
-                                    Future of
-                                    <span class="bottom-shape">Business</span> Solution
+                                    A Sua Satisfação é Nossa
+                                    <span class="bottom-shape">Prioridade</span> 
                                 </h1>
-                                <p>Seamlessly visualize quality intellectual capital
-                                    without superior collaboration and base portals. <strong>$0 Monthly Service
-                                        Charge.</strong></p>
+                                <p>Facilite o precesso de Gestão  dos seus recursos apostando na Tecnologia <strong></strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
-                                    <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li>
-                                    <li><a class="theme_btn border_btn" href="#">Our Services</a></li>
+                                    {{-- <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li> --}}
+                                    <li><a class="theme_btn border_btn" href="#">Nossos Serviços</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -38,25 +36,22 @@ Ocorrencias
                     </div>
                 </div>
             </div>
-            <div class="item" style="background-color: #415ca4">
-                <div class="container custom-container-slider" style="background-color: #415ca4">
+            <div class="item" style="background-color: #245FA7">
+                <div class="container custom-container-slider" style="background-color: #245FA7">
                     <div class="dodlle-one"></div>
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
-                    <div class="row align-items-center" style="background-color: #415ca4">
+                    <div class="row align-items-center" style="background-color: #245FA7">
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
-                                    Future of
-                                    <span class="bottom-shape">Business</span> Solution
+                                    A Sua Satisfação é Nossa
+                                    <span class="bottom-shape">Prioridade</span> 
                                 </h1>
-                                <p>Seamlessly visualize quality intellectual capital
-                                    without
-                                    superior collaboration and base portals. <strong>$0 Monthly Service
-                                        Charge.</strong></p>
+                                <p> Melhorar a eficiencia do seu Negócio  usando a Tecnologia e a razão  da nossa Existência <strong></strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
-                                    <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li>
-                                    <li><a class="theme_btn border_btn" href="#">Our Services</a></li>
+                                    {{-- <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li> --}}
+                                    <li><a class="theme_btn border_btn" href="#">Nossos Serviços</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -68,12 +63,12 @@ Ocorrencias
                     </div>
                 </div>
             </div>
-            <div class="item" style="background-color: #415ca4">
+            <div class="item" style="background-color: #245FA7">
                 <div class="container custom-container-slider">
                     <div class="dodlle-one"></div>
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
-                    <div class="row align-items-center" style="background-color: #415ca4">
+                    <div class="row align-items-center" style="background-color: #245FA7">
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
@@ -85,7 +80,7 @@ Ocorrencias
                                     superior collaboration and base portals. <strong>$0 Monthly Service
                                         Charge.</strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
-                                    <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li>
+                                    {{-- <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li> --}}
                                     <li><a class="theme_btn border_btn" href="#">Our Services</a></li>
                                 </ul>
                             </div>
@@ -141,49 +136,57 @@ Ocorrencias
             <div class="col-lg-6">
                 <div class="about-img-wrapper pos-rel mb-30">
                     <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape">
-                    <img class="img-fluid" src="{{asset('assets/img/about/about-1.png')}}" alt="About Img">
+                    <img class="img-fluid" src="{{asset('assets/img/about/pexels-darlene-alderson-7971173.jpg')}}" alt="About Img">
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="about-content-wrapper pl-60">
                     <div class="section-title">
                         <h6 class="semi-title mb-10">About Us</h6>
-                        <h2 class="sect-title mb-30">Reliable & Cost
-                            <span class="bottom-shape">Efficiant</span> Consulting</h2>
-                        <p class="paragraph-title">Seamlessly visualize quality intellectual capital
-                            without superior collaboration and base portals. <strong>$0 Monthly Service
-                                Charge.</strong>
+                        <h2 class="sect-title mb-30">O futuro é já amanhã
+                            <span class="bottom-shape"></span> </h2>
+                        <p class="paragraph-title">Estamos, neste momento, a alargar a nossa oferta de produtos e serviços, quer na área de infra-estruturas de TIC, quer na área de cibersegurança, e software, de forma a podermos responder, com inovação e criatividade, às necessidades específicas <strong>do mercado.</strong>
                         </p>
                     </div>
                 </div>
                 <div class="tab-wrapper mb-30">
                     <nav>
                         <div class="nav nav-tabs mb-25" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
+                            <button style="width: 420px" style="background-color: #245FA7" class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home"
-                                aria-selected="true">01. <span>Our Goals</span> <i
+                                aria-selected="true">01. <span>Visão</span> <i
                                     class="fal fa-long-arrow-down"></i></button>
+
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-profile" type="button" role="tab"
-                                aria-controls="nav-profile" aria-selected="false">02. <span>Our Mission</span>
+                                aria-controls="nav-profile" aria-selected="false">02. <span>Missão</span>
+                                <i class="fal fa-long-arrow-down"></i></button>
+
+                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
+                                data-bs-target="#nav-profile1" type="button" role="tab"
+                                aria-controls="nav-profile" aria-selected="false">03. <span>Valores</span>
                                 <i class="fal fa-long-arrow-down"></i></button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
                         <div class="tab-pane fade show active" id="nav-home" role="tabpanel"
                             aria-labelledby="nav-home-tab">
-                            <p>Long established fact that reader will be distracted
-                                the readable of pages when looking at its layout. The point using lorem ipsum
-                                has a
-                                more-or-less normal distribution of letters.</p>
+                            <p>Líderar na transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes..</p>
                         </div>
                         <div class="tab-pane fade" id="nav-profile" role="tabpanel"
                             aria-labelledby="nav-profile-tab">
-                            <p>Long established fact that reader will be distracted
-                                the readable of pages when looking at its layout. The point using lorem ipsum
-                                has a
-                                more-or-less normal distribution of letters.</p>
+                            <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                         </div>
+
+                        <div class="tab-pane fade" id="nav-profile1" role="tabpanel"
+                        aria-labelledby="nav-profile-tab">
+                        <ul>
+                            <li>Cultura de inovação</li>
+                            <li>Priorização do cliente</li>
+                            <li>Aposta na Tecnologia como serviço para uma sociedade melhor</li>
+                            <li>Responsabilidade social; Conduta ética em todas as acções</li>
+                        </ul>
+                    </div>
                     </div>
                 </div>
             </div>
@@ -197,8 +200,8 @@ Ocorrencias
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center mb-45">
-                    <h6 class="semi-title mb-10">Services</h6>
-                    <h2 class="sect-title">Nossos serviço</h2>
+                    <h6 class="semi-title mb-10">serviços</h6>
+                    <h2 class="sect-title" style="color: #245FA7">Nossos serviços</h2>
                 </div>
             </div>
         </div>
@@ -206,14 +209,12 @@ Ocorrencias
             <div class="col-lg-4 col-md-6">
                 <div class="single-services mb-120">
                     <div class="services__thumb">
-                        <img class="img-fluid" src="{{asset('assets/img/services/service-1.jpg')}}" alt="Services Img">
+                        <img class="img-fluid" src="{{asset('assets/img/services/2.jpg')}}" alt="Services Img">
                     </div>
-                    <div class="services__content text-center">
-                        <h5 class="service-text"><img src="{{asset('assets/img/icon/s-icon1.png')}}" alt="Icon"> Asset
-                            Management</h5>
-                        <p>Become faster, more flexible, and intensely
-                            customer-focused.</p>
-                        <a class="service-btn" href="services-details.html">More Details <i
+                    <div class="services__content text-center" style="background-color: #245FA7">
+                        <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon1.png')}}" alt="Icon"> Ifra-Estrututa</h5>
+                        <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
+                        <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -221,14 +222,12 @@ Ocorrencias
             <div class="col-lg-4 col-md-6">
                 <div class="single-services mb-120">
                     <div class="services__thumb">
-                        <img class="img-fluid" src="{{asset('assets/img/services/service-2.jpg')}}" alt="Services Img">
+                        <img class="img-fluid" src="{{asset('assets/img/services/2.jpg')}}" alt="Services Img">
                     </div>
-                    <div class="services__content text-center">
-                        <h5 class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Smart
-                            Manufacturing</h5>
-                        <p>Become faster, more flexible, and intensely
-                            customer-focused.</p>
-                        <a class="service-btn" href="services-details.html">More Details <i
+                    <div class="services__content text-center" style="background-color: #245FA7">
+                        <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Segurança</h5>
+                        <p>O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos...</p>
+                        <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -236,14 +235,12 @@ Ocorrencias
             <div class="col-lg-4 col-md-6">
                 <div class="single-services mb-120">
                     <div class="services__thumb">
-                        <img class="img-fluid" src="{{asset('assets/img/services/service-3.jpg')}}" alt="Services Img">
+                        <img class="img-fluid" src="{{asset('assets/img/services/2.jpg')}}" alt="Services Img">
                     </div>
-                    <div class="services__content text-center">
-                        <h5 class="service-text"><img src="{{asset('assets/img/icon/s-icon3.png')}}" alt="Icon"> Life
-                            Insurance</h5>
-                        <p>Become faster, more flexible, and intensely
-                            customer-focused.</p>
-                        <a class="service-btn" href="services-details.html">More Details <i
+                    <div class="services__content text-center" style="background-color: #245FA7">
+                        <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon3.png')}}" alt="Icon"> R&D</h5>
+                        <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
+                        <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -306,9 +303,9 @@ Ocorrencias
             <div class="col-lg-6 col-md-12">
                 <div class="faq-content-wrapper pr-40">
                     <div class="section-title mb-50">
-                        <h6 class="semi-title mb-10">FAQ</h6>
-                        <h2 class="sect-title pr-35">Get Solid Solution
-                            & <span class="bottom-shape">Answer</span> QA.</h2>
+                        {{-- <h6 class="semi-title mb-10">FAQ</h6> --}}
+                        <h2 class="sect-title pr-35">Obtenha uma solução sólida
+                             <span class="bottom-shape"></span></h2>
                     </div>
                     <div class="faq-que-list mb-30">
                         <div class="accordion" id="accordionExample">
@@ -380,7 +377,7 @@ Ocorrencias
                     <img class="img-one one" src="{{asset('assets/img/faq/faq-1.jpg')}}" alt="Faq Img">
                     <img class="img-one two" src="{{asset('assets/img/faq/faq-2.jpg')}}" alt="Faq Img">
                     <img class="img-one three" src="{{asset('assets/img/shape/f-shape-1.png')}}" alt="Faq Img">
-                    <img class="img-fluid img-four" src="{{asset('assets/img/faq/faq-3.jpg')}}" alt="Faq Img">
+                    <img class="img-fluid img-four" src="{{asset('assets/img/faq/excited-friends-on-couch.jpg')}}" alt="Faq Img">
                 </div>
             </div>
         </div>
@@ -394,7 +391,7 @@ Ocorrencias
             <div class="col-lg-12">
                 <div class="section-title text-center mb-60">
                     <h6 class="semi-title mb-10">Portfolio</h6>
-                    <h2 class="sect-title">Company Case Study</h2>
+                    <h2 class="sect-title">Nossos Trabalhos</h2>
                 </div>
             </div>
         </div>
@@ -402,66 +399,74 @@ Ocorrencias
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <p>Consultancy, Business</p>
-                        <h5>Miranda Business Consulting</h5>
+                        <h5>Ministério da Ciência e Tecnologia</h5>
+                        <p>Desenvolvemos o portal e a biblioteca de informação digital, incluindo a ...</p>
+                        
                         <img src="{{asset('assets/img/portfolio/portfolio-1.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Read More <i
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <p>Consultancy, Business</p>
-                        <h5>Miranda Business Consulting</h5>
+                        <h5>CMAM-JSI Research & Training Institute, Inc. (JSI)</h5>
+                        <p>Provisão de serviços de Migração de Ambientes da Ferramenta Central...
+
+                        </p>
+                        
                         <img src="{{asset('assets/img/portfolio/portfolio-2.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Read More <i
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <p>Consultancy, Business</p>
-                        <h5>Miranda Business Consulting</h5>
+                        <h5>Autoridade Tributária – Ministério das Finanças</h5>
+                        <p>Gestão da concessão para a implementação do sistema de...</p>
+                       
                         <img src="{{asset('assets/img/portfolio/portfolio-3.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Read More <i
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <p>Consultancy, Business</p>
-                        <h5>Miranda Business Consulting</h5>
+                        <h5>CISM– Centro de investigação de Saúde de Manhiça</h5>
+                        <p>Concepção, desenvolvimento e Implementação de um Sistema de ...</p>
+                        
                         <img src="{{asset('assets/img/portfolio/portfolio-4.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Read More <i
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <p>Consultancy, Business</p>
-                        <h5>Miranda Business Consulting</h5>
+                        <h5>Instituto Nacional de Viação (INAV)</h5>
+                        <p>Desenhámos um sistema de registo de veículos e automatização das c...</p>
+                        
                         <img src="{{asset('assets/img/portfolio/portfolio-1.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Read More <i
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <p>Consultancy, Business</p>
-                        <h5>Miranda Business Consulting</h5>
+                        <h5>Revimo– Rede Viária de Moçambique, S.A</h5>
+                        <p>Instalação da infraestrutura de rede & manutenção da infraestrutura de TIC ...</p>
+                        
                         <img src="{{asset('assets/img/portfolio/portfolio-2.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Read More <i
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -492,10 +497,10 @@ Ocorrencias
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12">
-                <div class="video-wrapper">
-                    <a href="https://www.youtube.com/watch?v=yeZpJ6lJC54" class="popup-video"><i
-                            class="fas fa-play"></i></a>
+            <div class="col-lg-6 col-md-12" >
+                <div class="video-wrapper" >
+                    {{-- <a href="https://www.youtube.com/watch?v=yeZpJ6lJC54" class="popup-video"><i
+                            class="fas fa-play"></i></a> --}}
                 </div>
             </div>
         </div>
