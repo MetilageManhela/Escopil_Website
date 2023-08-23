@@ -206,7 +206,7 @@
 											</li>
 											<li class="nav-item dropdown">
 												<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4"
-													role="button" data-bs-toggle="dropdown" aria-expanded="false">Pages
+													role="button" data-bs-toggle="dropdown" aria-expanded="false">Páginas
 													<i class="fal fa-chevron-down"></i></a>
 												<ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
 													<li>
@@ -220,8 +220,8 @@
 														<a class="dropdown-item" href="portfolio.html">Portfolio</a>
 													</li>
 													<li>
-														<a class="dropdown-item" href="portfolio-details.html">Portfolio
-															Details</a>
+														<a class="dropdown-item" href="portfolio-details.html">Detalhes do
+														Portfolio</a>
 													</li>
 													<li>
 														<a class="dropdown-item" href="career.html">Carreiras</a>
