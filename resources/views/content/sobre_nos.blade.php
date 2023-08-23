@@ -16,10 +16,10 @@ Ocorrencias
                 <div class="col-lg-12">
                     <div class="page-title-wrapper pt-30 pt-lg-40 pt-md-10 pt-xs-10">
                         <ul class="breadcrumb">
-                            <li><a href="index.html">Home /</a></li>
-                            <li class="active" aria-current="page">About Us</li>
+                            <li><a href="index.html">Início /</a></li>
+                            <li class="active" aria-current="page">Sobre Nós</li>
                         </ul>
-                        <h2 class="page-title">About us</h2>
+                        <h2 class="page-title">Sobre Nós</h2>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@ Ocorrencias
                 <div class="col-lg-6 mb-30">
                     <div class="about-content-wrapper3 pt-20 pl-60">
                         <div class="section-title">
-                            <h6 class="semi-title mb-10">About Us</h6>
+                            <h6 class="semi-title mb-10">Sobre Nós</h6>
                             <h2 class="sect-title">Compromisso com a Qualidade</h2>
                             <p class="paragraph-title">Escopil Tecnologia afirma-se, com orgulho, como empresa moçambicana a trabalhar para o mercado moçambicano desde 1998, sendo hoje uma referência no mercado das Tecnologias de Comunicação e Informação.
                                 Acreditamos fortemente que a tecnologia assume um papel crucial no desenvolvimento. Como tal, desafiamo-nos diariamente a encontrar novas soluções que respondam às necessidades dos nossos clientes. Mais do que dar uma resposta aos problemas encontrados no mercado, procuramos sempre usar os nossos conhecimentos alicerçados numa ampla experiência de mercado e o acesso a tecnologia de ponta para antecipar os desafios que os nossos clientes possam vir a enfrentar, oferecendo-lhes soluções seguras, completas, integradas e, acima de tudo, adequadas às suas realidades.
@@ -66,8 +66,8 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center mb-55">
-                        <h6 class="semi-title mb-10">Our History</h6>
-                        <h2 class="sect-title">Our Company Journey</h2>
+                        <h6 class="semi-title mb-10">Nossa História</h6>
+                        <h2 class="sect-title">O percurso da nossa empresa</h2>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@ Ocorrencias
                         <div class="col-lg-6 ">
                             <div class="left-content mb-30">
                                 <h2>Missão</h2>
-                                {{-- <h4>Building Solid Team</h4> --}}
+                                {{-- <h4>Construindo uma equipa sólida</h4> --}}
                                 <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                             </div>
                         </div>
