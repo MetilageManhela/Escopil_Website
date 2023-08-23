@@ -9,7 +9,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/pexels-kindel-media-6774143.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -33,26 +33,26 @@ Ocorrencias
                 <div class="col-lg-6">
                     <div class="about-img-wrapper pos-rel mb-30">
                         <img class="shape-square" src="assets/img/shape/square-1.png" alt="Shape">
-                        <img class="img-fluid" src="assets/img/about/about-1.png" alt="About Img">
+                        <img class="img-fluid" src="assets/img/about/pexels-monstera-9487242.jpg" alt="About Img">
                     </div>
                 </div>
                 <div class="col-lg-6 mb-30">
                     <div class="about-content-wrapper3 pt-20 pl-60">
                         <div class="section-title">
                             <h6 class="semi-title mb-10">About Us</h6>
-                            <h2 class="sect-title">Reliable & Cost
-                                Efficiant Consulting</h2>
-                            <p class="paragraph-title">Seamlessly visualize quality intellectual capital
-                                without superior collaboration and base portals. <strong>$0 Monthly Service
-                                    Charge.</strong>
+                            <h2 class="sect-title">Compromisso com a Qualidade</h2>
+                            <p class="paragraph-title">Escopil Tecnologia afirma-se, com orgulho, como empresa moçambicana a trabalhar para o mercado moçambicano desde 1998, sendo hoje uma referência no mercado das Tecnologias de Comunicação e Informação.
+                                Acreditamos fortemente que a tecnologia assume um papel crucial no desenvolvimento. Como tal, desafiamo-nos diariamente a encontrar novas soluções que respondam às necessidades dos nossos clientes. Mais do que dar uma resposta aos problemas encontrados no mercado, procuramos sempre usar os nossos conhecimentos alicerçados numa ampla experiência de mercado e o acesso a tecnologia de ponta para antecipar os desafios que os nossos clientes possam vir a enfrentar, oferecendo-lhes soluções seguras, completas, integradas e, acima de tudo, adequadas às suas realidades.
+                                Enquanto membro do Grupo Escopil, implementámos, com sucesso, uma vasta gama soluções, desde o e-Government a Infra-estrutura (Redes e Hardware).
+                                Com o intuito de reforçarmos o nosso propósito de sermos o parceiro preferencial dos nossos clientes, estamos, agora, a introduzir na nossa carteira de serviços, inovações quer na área da infraestrutura e seguranca, quer do desenvolvimento de Software.
                             </p>
                         </div>
-                        <p>Long established fact that reader will be distracted the readable of pages
+                        {{-- <p>Long established fact that reader will be distracted the readable of pages
                             when looking at its layout. The point using lorem ipsum has a more-or-less
-                            normal distribution of letters.</p>
+                            normal distribution of letters.</p> --}}
                         <ul class="btn-list about-btn d-md-flex align-items-center">
-                            <li><a href="about.html" class="theme_btn2">Get In Touch</a></li>
-                            <li><a href="about.html" class="theme_btn2 ml-20">Our Services</a></li>
+                            <li><a href="about.html" class="theme_btn2">Entrar em contato</a></li>
+                            <li><a href="about.html" class="theme_btn2 ml-20">Nossos Serviço</a></li>
                         </ul>
                     </div>
                 </div>
@@ -82,10 +82,9 @@ Ocorrencias
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2>2000</h2>
-                                <h4>Company Foundation</h4>
-                                <p>The sontent provides fully integrated
-                                    marketing services designed</p>
+                                <h2>Visão</h2>
+                                {{-- <h4>Company Foundation</h4> --}}
+                                <p><strong>Líderar na</strong> transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes.</p>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -104,10 +103,9 @@ Ocorrencias
                         </div>
                         <div class="col-lg-6 ">
                             <div class="left-content mb-30">
-                                <h2>2004</h2>
-                                <h4>Building Solid Team</h4>
-                                <p>The sontent provides fully integrated
-                                    marketing services designed</p>
+                                <h2>Missão</h2>
+                                {{-- <h4>Building Solid Team</h4> --}}
+                                <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                             </div>
                         </div>
                     </div>
@@ -116,10 +114,18 @@ Ocorrencias
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2>2010</h2>
-                                <h4>Company Foundation</h4>
+                                <h2>Valores</h2>
+                                {{-- <h4>Company Foundation</h4>
                                 <p>The sontent provides fully integrated
-                                    marketing services designed</p>
+                                    marketing services designed</p> --}}
+                               
+                                    <p>Cultura de inovação;</p>
+                                    <p>Priorização do cliente;</p>
+                                    <p>Aposta na Tecnologia como serviço para uma sociedade melhor;</p>
+                                    <p>Responsabilidade social; </p>
+                                    <p>Conduta ética em todas as acções</p>
+                                   
+                                
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -129,7 +135,7 @@ Ocorrencias
                         </div>
                     </div>
                 </li>
-                <li>
+                {{-- <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -145,8 +151,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li>
-                <li>
+                </li> --}}
+                {{-- <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
@@ -162,8 +168,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li>
-                <li>
+                </li> --}}
+                {{-- <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -179,8 +185,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li>
-                <li>
+                </li> --}}
+                {{-- <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
@@ -196,8 +202,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li>
-                <li>
+                </li> --}}
+                {{-- <li>
                     <div class="row timeline-box">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -213,7 +219,7 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li>
+                </li> --}}
             </ul>
         </div>
     </section>
