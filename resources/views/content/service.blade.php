@@ -32,7 +32,7 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-1.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/serv1.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> Infra-Estrutura</h5>
@@ -45,10 +45,10 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-2.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/serv2.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon">segurança</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon">Segurança</h5>
                             <p>O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -58,7 +58,7 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-3.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/serv3.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon3.png" alt="Icon"> R&D</h5>
