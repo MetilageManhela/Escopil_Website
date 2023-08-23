@@ -74,11 +74,9 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/service-4.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon10.png" alt="Icon"> Business
-                                Consulting</h5>
-                            <p>Become faster, more flexible, and intensely
-                                customer-focused.</p>
-                            <a class="service-btn" href="services-details.html">More Details <i
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon10.png" alt="Icon"> GESTÃO DE PROJECTOS</h5>
+                            <p>Possuímos recursos e talento necessários para executar as necessidades dos nossos clientes dentro dos prazos acordados...</p>
+                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -89,11 +87,9 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/service-5.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> Business
-                                Counselling</h5>
-                            <p>Become faster, more flexible, and intensely
-                                customer-focused.</p>
-                            <a class="service-btn" href="services-details.html">More Details <i
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> ERPNEXT</h5>
+                            <p>Sistema de gestão RH, estoque, projetos e recursos de CRM, alem disso a plataforma oferece funcoes de contabilidaden, RH e folha de pagamento...</p>
+                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -104,11 +100,9 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/service-6.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> Tax & Order
-                                Making</h5>
-                            <p>Become faster, more flexible, and intensely
-                                customer-focused.</p>
-                            <a class="service-btn" href="services-details.html">More Details <i
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> Analise de Sistemas</h5>
+                            <p>Desenvolvemos soluções para as empresas por meio de sistemas informatizados para empresas. Fazemos o trabalho de analise, documentacao...</p>
+                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -118,7 +112,7 @@ Ocorrencias
     </section>
     <!--services-area end-->
     <!--feature-area start-->
-    <section class="feature-area">
+    {{-- <section class="feature-area">
         <div class="service-feature-bg">
             <div class="container">
                 <div class="row align-items-center justify-content-md-end">
@@ -148,10 +142,10 @@ Ocorrencias
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--feature-area end-->
     <!--plan-area start-->
-    <section class="plan-area service-plan-bg pb-90 pb-md-30 pb-xs-30">
+    {{-- <section class="plan-area service-plan-bg pb-90 pb-md-30 pb-xs-30">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -226,7 +220,7 @@ Ocorrencias
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--plan-area end-->
     <!--brand-area start-->
     <section class="brand-area pt-120 pb-120 pt-md-60 pb-md-60 pb-xs-60 pt-xs-60">
