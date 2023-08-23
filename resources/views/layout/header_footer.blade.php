@@ -87,8 +87,8 @@
 							<li>
 								<div class="icon"><i class="fal fa-map-marker-alt"></i></div>
 								<div class="query-list" style="color: #245FA7">
-									<span style="color: #245FA7">1010 Avenue of the Moon</span>
-									<span style="color: #245FA7">New York, NY 10018 US.</span>
+									<span style="color: #245FA7">406, Av. Ahmed S. Toure</span>
+									<span style="color: #245FA7">Maputo, NY 10018 MZ.</span>
 								</div>
 							</li>
 							<li>
