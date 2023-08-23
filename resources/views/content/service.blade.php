@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    {{-- <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -23,7 +23,7 @@ Ocorrencias
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
     <!--page-title-area end-->
     <!--services-area start-->
     <section class="services-area pt-120 pb-80 mb-10 pt-md-60 pb-md-25 pt-xs-50 pb-xs-20">
@@ -71,7 +71,7 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-4.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/serv4.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon10.png" alt="Icon"> Gestão de Projectos</h5>
