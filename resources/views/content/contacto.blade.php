@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/pexels-kindel-media-6774143.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -26,21 +26,21 @@ Ocorrencias
     </section>
     <!--page-title-area end-->
     <!--contact-area start-->
-    <section class="contact-area pt-105 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
+    <section class="contact-area pt-105 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30" style="background-color: rgb(238, 242, 245)">
         <div class="container">
             <div class="contact-border pb-90 pb-md-30 pb-xs-30">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-img-wrapper pr-30 pr-md-0 pr-xs-0 mb-30">
-                            <img class="w-100" src="assets/img/contact/contact-1.jpg" alt="Img">
-                            <img class="icons" src="assets/img/contact/icon-1.png" alt="Icon">
+                            <img class="w-100" src="assets/img/contact/pexels-darlene-alderson-7971173.jpg" alt="Img">
+                            {{-- <img class="icons" src="assets/img/contact/icon-1.png" alt="Icon"> --}}
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-input-wrapper mb-30">
                             <div class="section-title mb-25">
                                 <h6 class="semi-title mb-10">Make Custom Request</h6>
-                                <h2 class="sect-title mb-35">Tell about your project</h2>
+                                <h2 class="sect-title mb-35">Fale nos sobre os seus projectos</h2>
                             </div>
                             <form class="row contact-form" action="#">
                                 <div class="col-lg-6 col-md-6">
@@ -76,7 +76,7 @@ Ocorrencias
                                 </div>
 
                                 <div class="col-12">
-                                    <button class="form-btn">Get A Quote</button>
+                                    <button class="form-btn" style="background-color: rgb(50, 50, 126)">Submeter</button>
                                 </div>
                             </form>
                         </div>
@@ -87,37 +87,35 @@ Ocorrencias
                 <div class="col-xl-8">
                     <div class="section-title text-center mb-55">
                         <h6 class="semi-title mb-10">Catch Us Here</h6>
-                        <h2 class="sect-title">We'd love to</h2>
-                        <h2 class="sect-title">hear from you something</h2>
+                        <h2 class="sect-title">Informação de Contacto</h2>
+                        <p >Alcance nossa equipe de especialistas</p>
+                       <p> Envie uma mensagem através do formulário fornecido. Se sua pergunta for urgente, use os detalhes de contato abaixo.</p>
                     </div>
                 </div>
             </div>
             <div class="row pb-90 pb-md-30 pb-xs-30">
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">Main Branch, New York</h5>
-                        <p>58 Howard Street #2 San Francisco, CA 941
-                            contact.sanfrancisco@example.com
-                            (+68) 1221 098 76</p>
-                        <a href="" class="theme_btn mt-35">Get Direction <i class="fal fa-long-arrow-right"></i></a>
+                        <h5 class="fs-20 mb-20">Endereço postal</h5>
+                        <p>Maputo - Mozambique</p>
+                        <p>Av. Ahmed S. Toure 406/RC</p>
+                        <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">Sub Branch, Japan</h5>
-                        <p>58 Howard Street #2 San Francisco, CA 941
-                            contact.sanfrancisco@example.com
-                            (+68) 1221 098 76</p>
-                        <a href="" class="theme_btn mt-35">Get Direction <i class="fal fa-long-arrow-right"></i></a>
+                        <h5 class="fs-20 mb-20">Contactos</h5>
+                        <p>Phone: +258 84 314 7940 & +258 21 492 725</p>
+                        <p>Email: comercial.tec@escopil.co.mz</p>
+                        <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">Sub Branch, Dh</h5>
-                        <p>58 Howard Street #2 San Francisco, CA 941
-                            contact.sanfrancisco@example.com
-                            (+68) 1221 098 76</p>
-                        <a href="" class="theme_btn mt-35">Get Direction <i class="fal fa-long-arrow-right"></i></a>
+                        <h5 class="fs-20 mb-20">horas de funcionamento</h5>
+                        <p>monday - friday: 08:00 to 17.00</p>
+                        {{-- <p>Av. Ahmed S. Toure 406/RC</p> --}}
+                        <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
