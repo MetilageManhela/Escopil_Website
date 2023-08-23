@@ -1,7 +1,7 @@
-/*-----------------------------------------------------------------------------------
+/* -----------------------------------------------------------------------------------
 
     Template Name:  Finanix - Consulting & Business HTML5 Template
-    Author: 
+    Author:
     Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -15,7 +15,7 @@
     04. common
     05. overlay
     06. header
-    07. breadcrumb 
+    07. breadcrumb
     08. mobile-menu
     09. typography
     10. search
@@ -2986,7 +2986,7 @@ input.main-search-input:-ms-input-placeholder {
 .slider-bg {
   margin-top: -16px;
   position: relative;
-  background: url(../img/slider/hero-bg-1.jpg) no-repeat center;
+  background: url(../imagens/header-1.jpg) no-repeat center;
   background-size: cover;
   min-height: 796px;
   display: flex;
@@ -3405,7 +3405,7 @@ input.main-search-input:-ms-input-placeholder {
   .slider-bg-3::after {
     content: "";
     position: absolute;
-    background: url(../img/slider/pattern-1.png) no-repeat;
+    background: url(../imagens/header-1.jpg) no-repeat;
     width: 100%;
     height: 100%;
     left: 0;

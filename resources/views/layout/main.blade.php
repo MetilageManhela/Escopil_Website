@@ -57,7 +57,9 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/hero-man-1.png" alt="Hero Img">
+                              
+                                <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
+
                             </div>
                         </div>
                     </div>
@@ -87,7 +89,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/hero-man-3.png" alt="Hero Img">
+                                <img class="img-fluid" src="assets/img/slider/friends.png" alt="Hero Img">  
                             </div>
                         </div>
                     </div>
@@ -106,7 +108,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-1.png" alt="Feature Iocn">
                     <h2>Visão</h2>
                     <h6><span>01.</span> Business Strategy &</h6>
-                   
+
                 </div>
             </div>
             <div class="col-lg-4" >
@@ -114,7 +116,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-2.png" alt="Feature Iocn">
                     <h2>Missão</h2>
                     <h6><span>02.</span> Private Internet Access</h6>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4">
@@ -122,7 +124,7 @@ Ocorrencias
                     <img class="f-icon" src="assets/img/feature/icon-3.png" alt="Feature Iocn">
                     <h2>Valores</h2>
                     <h6><span>03.</span> Customer Strategy &</h6>
-                   
+
                 </div>
             </div>
         </div>
@@ -136,16 +138,18 @@ Ocorrencias
             <div class="col-lg-6">
                 <div class="about-img-wrapper pos-rel mb-30">
                     <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape">
-                    <img class="img-fluid" src="{{asset('assets/img/about/pexels-darlene-alderson-7971173.jpg')}}" alt="About Img">
+                    <img class="img-fluid" src="{{asset('assets/img/about/about-1.jpg')}}" alt="About Img">
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="about-content-wrapper pl-60">
                     <div class="section-title">
                         <h6 class="semi-title mb-10">About Us</h6>
-                        <h2 class="sect-title mb-30">O futuro é já amanhã
-                            <span class="bottom-shape"></span> </h2>
-                        <p class="paragraph-title">Estamos, neste momento, a alargar a nossa oferta de produtos e serviços, quer na área de infra-estruturas de TIC, quer na área de cibersegurança, e software, de forma a podermos responder, com inovação e criatividade, às necessidades específicas <strong>do mercado.</strong>
+                        <h2 class="sect-title mb-30">Reliable & Cost
+                            <span class="bottom-shape">Efficiant</span> Consulting</h2>
+                        <p class="paragraph-title">Seamlessly visualize quality intellectual capital
+                            without superior collaboration and base portals. <strong>$0 Monthly Service
+                                Charge.</strong>
                         </p>
                     </div>
                 </div>
@@ -154,17 +158,12 @@ Ocorrencias
                         <div class="nav nav-tabs mb-25" id="nav-tab" role="tablist">
                             <button style="width: 420px" style="background-color: #245FA7" class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home"
-                                aria-selected="true">01. <span>Visão</span> <i
+                                aria-selected="true">01. <span>Our Goals</span> <i
                                     class="fal fa-long-arrow-down"></i></button>
 
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-profile" type="button" role="tab"
-                                aria-controls="nav-profile" aria-selected="false">02. <span>Missão</span>
-                                <i class="fal fa-long-arrow-down"></i></button>
-
-                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
-                                data-bs-target="#nav-profile1" type="button" role="tab"
-                                aria-controls="nav-profile" aria-selected="false">03. <span>Valores</span>
+                                aria-controls="nav-profile" aria-selected="false">02. <span>Our Mission</span>
                                 <i class="fal fa-long-arrow-down"></i></button>
                         </div>
                     </nav>
@@ -254,7 +253,7 @@ Ocorrencias
     <div class="container border-line pb-60">
         <div class="row">
             <div class="col-12 brand-title mb-60">
-                <h5 class="border-bg">Happy Users</h5>
+                <h5 class="border-bg">Nossos Parceiros</h5>
             </div>
         </div>
         <div class="row">
@@ -296,7 +295,7 @@ Ocorrencias
     </div>
 </section>
 <!--brand-area end-->
-<!--faq-area start-->
+<!--faq-area start
 <section class="faq-area pt-60 pb-90 pt-md-50 pb-md-30 pt-xs-50 pb-xs-30">
     <div class="container">
         <div class="row">
@@ -383,7 +382,7 @@ Ocorrencias
         </div>
     </div>
 </section>
-<!--faq-area end-->
+faq-area end-->
 <!--portfolio-area start-->
 <section class="grey-bg2 portfolio-area portfolio-nav pt-120 pb-120 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
     <div class="container">
@@ -512,7 +511,7 @@ Ocorrencias
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
-                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar 
+                <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar
                     a tornar seu negócio melhor</h2>
             </div>
             <div class="col-lg-4 col-md-12 text-center text-lg-end">
