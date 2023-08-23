@@ -208,7 +208,7 @@ Ocorrencias
             <div class="col-lg-4 col-md-6">
                 <div class="single-services mb-120">
                     <div class="services__thumb">
-                        <img class="img-fluid" src="{{asset('assets/img/services/2.jpg')}}" alt="Services Img">
+                        <img class="img-fluid" src="{{asset('assets/img/services/serv1.jpg')}}" alt="Services Img">
                     </div>
                     <div class="services__content text-center" style="background-color: #245FA7">
                         <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon1.png')}}" alt="Icon"> Ifra-Estrututa</h5>
@@ -221,7 +221,7 @@ Ocorrencias
             <div class="col-lg-4 col-md-6">
                 <div class="single-services mb-120">
                     <div class="services__thumb">
-                        <img class="img-fluid" src="{{asset('assets/img/services/2.jpg')}}" alt="Services Img">
+                        <img class="img-fluid" src="{{asset('assets/img/services/serv2.jpg')}}" alt="Services Img">
                     </div>
                     <div class="services__content text-center" style="background-color: #245FA7">
                         <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Segurança</h5>
@@ -234,7 +234,7 @@ Ocorrencias
             <div class="col-lg-4 col-md-6">
                 <div class="single-services mb-120">
                     <div class="services__thumb">
-                        <img class="img-fluid" src="{{asset('assets/img/services/2.jpg')}}" alt="Services Img">
+                        <img class="img-fluid" src="{{asset('assets/img/services/serv3.jpg')}}" alt="Services Img">
                     </div>
                     <div class="services__content text-center" style="background-color: #245FA7">
                         <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon3.png')}}" alt="Icon"> R&D</h5>
