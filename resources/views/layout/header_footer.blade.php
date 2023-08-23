@@ -88,14 +88,14 @@
 								<div class="icon"><i class="fal fa-map-marker-alt"></i></div>
 								<div class="query-list" style="color: #245FA7">
 									<span style="color: #245FA7">406, Av. Ahmed S. Toure</span>
-									<span style="color: #245FA7">Maputo, NY 10018 MZ.</span>
+									<span style="color: #245FA7">Maputo, B. Central, MZ.</span>
 								</div>
 							</li>
 							<li>
 								<div class="icon" ><i class="fal fa-clock"></i></div>
 								<div class="query-list" style="color: #245FA7">
-									<span style="color: #245FA7">Mon - Sat 8.00 - 18.00</span>
-									<span style="color: #245FA7">Sunday: <strong>Closed</strong></span>
+									<span style="color: #245FA7">Seg. - Sex. 8.00 - 17.00</span>
+									<span style="color: #245FA7">Domingo: <strong>Fechado</strong></span>
 								</div>
 							</li>
 							{{-- <li style="background-color: #415ca4">
@@ -121,7 +121,7 @@
 											<li class="nav-item dropdown active">
 												<a class="nav-link dropdown-toggle" href="{{route('home.page')}}"
 													{{-- id="navbarDropdown1" role="button" data-bs-toggle="dropdown" --}}
-													aria-expanded="false">Menu
+													aria-expanded="false">Início
 													<i class="fal fa-chevron-down"></i></a>
 												{{-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
 													<li class="dropdown-submenu">
@@ -199,8 +199,8 @@
 														<a class="dropdown-item" href="{{route('service.page')}}">Todos</a>
 													</li>
 													<li>
-														<a class="dropdown-item" href="services-details.html">Services
-															Details</a>
+														<a class="dropdown-item" href="services-details.html">Detalhes dos
+															Serviços</a>
 													</li>
 												</ul>
 											</li>
@@ -210,11 +210,11 @@
 													<i class="fal fa-chevron-down"></i></a>
 												<ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
 													<li>
-														<a class="dropdown-item" href="team.html">Team</a>
+														<a class="dropdown-item" href="team.html">Equipa</a>
 													</li>
 													<li>
-														<a class="dropdown-item" href="team-details.html">Team
-															Details</a>
+														<a class="dropdown-item" href="team-details.html">Detalhes da
+															Equipa</a>
 													</li>
 													<li>
 														<a class="dropdown-item" href="portfolio.html">Portfolio</a>
@@ -224,7 +224,7 @@
 															Details</a>
 													</li>
 													<li>
-														<a class="dropdown-item" href="career.html">Career</a>
+														<a class="dropdown-item" href="career.html">Carreiras</a>
 													</li>
 													<li>
 														<a class="dropdown-item" href="error.html">Error</a>
