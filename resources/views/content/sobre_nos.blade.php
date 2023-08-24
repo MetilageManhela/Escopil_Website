@@ -17,9 +17,9 @@ Ocorrencias
                     <div class="page-title-wrapper pt-30 pt-lg-40 pt-md-10 pt-xs-10">
                         <ul class="breadcrumb">
                             <li><a href="index.html">Home /</a></li>
-                            <li class="active" aria-current="page">About Us</li>
+                            <li class="active" aria-current="page">Sobre Nós</li>
                         </ul>
-                        <h2 class="page-title">About us</h2>
+                        <h2 class="page-title">Sobre Nós</h2>
                     </div>
                 </div>
             </div>
@@ -63,14 +63,14 @@ Ocorrencias
     <!--our-journey-area start-->
     <section class="our-journey-area time-line pt-120 pb-250 pb-lg-90 pt-md-60 pb-md-60 pt-xs-60 pb-xs-30">
         <div class="container">
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center mb-55">
                         <h6 class="semi-title mb-10">Our History</h6>
                         <h2 class="sect-title">Our Company Journey</h2>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <div class="reacttimeline">
                   <ul>
                       <li class="default-line"></li>
@@ -295,7 +295,7 @@ Ocorrencias
     </section>
     <!--team-area end-->
     <!--cta-area start-->
-    <section class="cta-area cta-full cta-full2">
+    {{-- <section class="cta-area cta-full cta-full2">
         <img class="shape-one" src="assets/img/cta/dot-shape-1.png" alt="Shape">
         <div class="cta-bg">
             <div class="container">
@@ -316,7 +316,7 @@ Ocorrencias
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--cta-area end-->
 
 </main>

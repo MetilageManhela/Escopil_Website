@@ -112,7 +112,7 @@
 					<div class="white-bg row align-items-center gx-0">
 						<div class="col-lg-10 col-6 text-start">
 							<div class="logo-area d-lg-none d-md-block">
-								<a href="index.html"><img src="assets/img/logo/footer-logo-1.png" alt="Header-logo"></a>
+								<a href="index.html"><img style="width: 150px; height: 80px;" src="assets/img/logo/ESCOPIL-11.png" alt="Header-logo"></a>
 							</div>
 							<nav id="topheader" class="navbar navbar-expand-lg justify-content-start py-0">
 								<div class="nav-container">
