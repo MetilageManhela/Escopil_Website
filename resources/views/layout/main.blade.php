@@ -112,7 +112,7 @@ Ocorrencias
                 </div>
             </div>
             <div class="col-lg-4" >
-                <div class="single-feature feat-2">
+                <div class="single-feature feat-3">
                     <img class="f-icon" src="assets/img/feature/icon-2.png" alt="Feature Iocn">
                     <h2>Missão</h2>
                     <h6><span>02.</span> Private Internet Access</h6>
@@ -120,7 +120,7 @@ Ocorrencias
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="single-feature feat-3">
+                <div class="single-feature ">
                     <img class="f-icon" src="assets/img/feature/icon-3.png" alt="Feature Iocn">
                     <h2>Valores</h2>
                     <h6><span>03.</span> Customer Strategy &</h6>
@@ -144,37 +144,40 @@ Ocorrencias
             <div class="col-lg-6">
                 <div class="about-content-wrapper pl-60">
                     <div class="section-title">
-                        <h6 class="semi-title mb-10">About Us</h6>
-                        <h2 class="sect-title mb-30">Reliable & Cost
-                            <span class="bottom-shape">Efficiant</span> Consulting</h2>
-                        <p class="paragraph-title">Seamlessly visualize quality intellectual capital
-                            without superior collaboration and base portals. <strong>$0 Monthly Service
-                                Charge.</strong>
+                        <h6 class="semi-title mb-10">Sobre Nós</h6>
+                        <h2 class="sect-title mb-30">Missão & Visão &
+                            <span class="bottom-shape"></span> Valores</h2>
+                        <p class="paragraph-title">Escopil Tecnologia afirma-se, com orgulho, como empresa moçambicana a trabalhar para o mercado moçambicano desde 1998, sendo hoje uma referência no mercado das Tecnologias de Comunicação e Informação. <strong>Tecnologias de Comunicação e Informação.</strong>
                         </p>
                     </div>
                 </div>
                 <div class="tab-wrapper mb-30">
                     <nav>
                         <div class="nav nav-tabs mb-25" id="nav-tab" role="tablist">
-                            <button style="width: 420px" style="background-color: #245FA7" class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
+                            <button style="width: 405px" style="background-color: #245FA7" class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home"
-                                aria-selected="true">01. <span>Our Goals</span> <i
+                                aria-selected="true">01. <span>Missão</span> <i
                                     class="fal fa-long-arrow-down"></i></button>
 
                             <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-profile" type="button" role="tab"
-                                aria-controls="nav-profile" aria-selected="false">02. <span>Our Mission</span>
+                                aria-controls="nav-profile" aria-selected="false">02. <span>Visão</span>
+                                <i class="fal fa-long-arrow-down"></i></button>
+
+                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
+                                data-bs-target="#nav-profile1" type="button" role="tab"
+                                aria-controls="nav-profile" aria-selected="false">02. <span>Valores</span>
                                 <i class="fal fa-long-arrow-down"></i></button>
                         </div>
                     </nav>
                     <div class="tab-content" id="nav-tabContent">
                         <div class="tab-pane fade show active" id="nav-home" role="tabpanel"
                             aria-labelledby="nav-home-tab">
-                            <p>Líderar na transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes..</p>
+                            <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                         </div>
                         <div class="tab-pane fade" id="nav-profile" role="tabpanel"
                             aria-labelledby="nav-profile-tab">
-                            <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
+                            <p>Líderar na transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes.</p>
                         </div>
 
                         <div class="tab-pane fade" id="nav-profile1" role="tabpanel"
@@ -210,10 +213,10 @@ Ocorrencias
                     <div class="services__thumb">
                         <img class="img-fluid" src="{{asset('assets/img/services/serv1.jpg')}}" alt="Services Img">
                     </div>
-                    <div class="services__content text-center" style="background-color: #245FA7">
-                        <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon1.png')}}" alt="Icon"> Ifra-Estrututa</h5>
+                    <div class="services__content text-center" style="background-color: #143966">
+                        <h5   class="service-text"><img src="{{asset('assets/img/icon/s-icon1.png')}}" alt="Icon"> Ifra-Estrututa</h5>
                         <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
-                        <a class="service-btn" href="services-details.html">Mais Detalhes<i
+                        <a class="service-btn" href="{{route('infra_estrutura.pages')}}">Mais Detalhes<i 
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -223,10 +226,10 @@ Ocorrencias
                     <div class="services__thumb">
                         <img class="img-fluid" src="{{asset('assets/img/services/serv2.jpg')}}" alt="Services Img">
                     </div>
-                    <div class="services__content text-center" style="background-color: #245FA7">
-                        <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Segurança</h5>
+                    <div class="services__content text-center" style="background-color: #143966">
+                        <h5   class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Segurança</h5>
                         <p>O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos...</p>
-                        <a class="service-btn" href="services-details.html">Mais Detalhes <i
+                        <a class="service-btn" href="{{route('seguranca.pages')}}">Mais Detalhes <i
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -236,10 +239,10 @@ Ocorrencias
                     <div class="services__thumb">
                         <img class="img-fluid" src="{{asset('assets/img/services/serv3.jpg')}}" alt="Services Img">
                     </div>
-                    <div class="services__content text-center" style="background-color: #245FA7">
-                        <h5  style="color: #245FA7" class="service-text"><img src="{{asset('assets/img/icon/s-icon3.png')}}" alt="Icon"> R&D</h5>
+                    <div class="services__content text-center" style="background-color: #143966">
+                        <h5  class="service-text"><img src="{{asset('assets/img/icon/s-icon3.png')}}" alt="Icon"> R&D</h5>
                         <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
-                        <a class="service-btn" href="services-details.html">Mais Detalhes<i
+                        <a class="service-btn" href="{{route('rd.pages')}}">Mais Detalhes<i
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -260,34 +263,46 @@ Ocorrencias
             <div class="col-lg-12">
                 <div class="brand-active owl-carousel">
                     <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/brand-1.png')}}"
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/tabloTech.PNG')}}"
                                 alt="Brand Logo"></a>
-                        <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-1y.png')}}"
-                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-1y.png')}}"
+                                alt="Brand Logo"></a> --}}
                     </div>
                     <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/brand-2ys.png')}}"
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/duys.PNG')}}"
                                 alt="Brand Logo"></a>
-                        <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-2.png')}}"
-                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-2.png')}}"
+                                alt="Brand Logo"></a> --}}
                     </div>
                     <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/brand-3.png')}}"
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/mrt.PNG')}}"
                                 alt="Brand Logo"></a>
-                        <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-3y.png')}}"
-                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-3y.png')}}"
+                                alt="Brand Logo"></a> --}}
                     </div>
                     <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/brand-4.png')}}"
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/sgs.PNG')}}"
                                 alt="Brand Logo"></a>
-                        <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-4y.png')}}"
-                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-4y.png')}}"
+                                alt="Brand Logo"></a> --}}
                     </div>
                     <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/brand-5.png')}}"
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/skil.PNG')}}"
                                 alt="Brand Logo"></a>
-                        <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vesame.PNG')}}"
                                 alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vortal.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                                alt="Brand Logo"></a> --}}
                     </div>
                 </div>
             </div>
@@ -480,19 +495,25 @@ faq-area end-->
             <div class="col-lg-6 col-md-12">
                 <div class="core-wrapper mb-30">
                     <div class="section-title pr-70">
-                        <h6 class="semi-title mb-10">Core Features</h6>
-                        <h2 class="sect-title mb-30">Serving 50% Of
-                            <span class="bottom-shape">Global</span> Companies</h2>
-                        <p class="paragraph-title mb-50">Seamlessly visualize quality intellectual capital
-                            without superior collaboration and base portals. <strong>$0 Monthly Service
-                                Charge.</strong>
+                        <h6 class="semi-title mb-10"></h6>
+                        <h2 class="sect-title mb-30">O futuro  
+                            <span class="bottom-shape">é</span> já Amanhã</h2>
+                        <p class="paragraph-title mb-50">Estamos, neste momento, a alargar a nossa 
+                            oferta de produtos e serviços, quer na área de 
+                            infraestruturas de TIC, quer na área de ciberse
+                            -
+                            gurança, e software, de forma a podermos re
+                            -
+                            sponder, com inovação e criatividade, às  <strong>neces
+                                -
+                                sidades específicas do mercado.</strong>
                         </p>
                     </div>
                     <ul class="text-list list-none">
-                        <li>Credit limit up to $5,000</li>
-                        <li>Up to 5% cash back on two categories you choose</li>
+                        <li>Eficiencia </li>
+                        <li>Eficácia</li>
                     </ul>
-                    <a href="#" class="theme_btn theme-border-btn mt-20">Discover Now <i
+                    <a href="#" class="theme_btn theme-border-btn mt-20">Descubra agora <i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -511,8 +532,8 @@ faq-area end-->
 </section>
 <!--core-feature-area end-->
 <!--cta-area start-->
-<section class="cta-area cta-bg pt-70 pb-50 pt-md-60 pb-md-50 pt-xs-50 pb-xs-30">
-    <div class="container">
+<section style="background-color: #245FA7" class="cta-area pt-70 pb-50 pt-md-60 pb-md-50 pt-xs-50 pb-xs-30" >
+    <div class="container" style="background-color: #245FA7">
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
                 <h3 class="cta-title mb-30">Vamos discutir sobre como podemos ajudar
@@ -535,8 +556,8 @@ faq-area end-->
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center mb-55">
-                    <h6 class="semi-title mb-10">News</h6>
-                    <h2 class="sect-title">Blog Insights</h2>
+                    <h6 class="semi-title mb-10">Novidades</h6>
+                    <h2 class="sect-title">Blog</h2>
                 </div>
             </div>
         </div>
@@ -545,51 +566,52 @@ faq-area end-->
                 <div class="blogs mb-30">
                     <div class="blogs__thumb mb-35">
                         <a href="blog-details.html">
-                            <img src="{{asset('assets/img/blog/blog-1.jpg')}}" alt="Blog Img">
+                            <img src="{{asset('assets/img/blog/Capture.PNG')}}" alt="Blog Img">
                         </a>
 
                     </div>
-                    <span class="tag">Business</span>
+                    <span class="tag" style="background-color: #143966">Business</span>
                     <div class="blogs__meta mb-1">
                         <span>January 21, 2022 / By </span>
                         <span class="author">Admin</span>
                     </div>
-                    <h5><a class="blog-title" href="blog-details.html">Designing Human-Machine Interfaces For
-                            Vehicles Of The Future</a></h5>
+                    <h5><a class="blog-title" href="blog-details.html">Projetando interfaces homem-máquina para
+                        Veículos do Futuro</a></h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="blogs mb-30">
                     <div class="blogs__thumb mb-35">
                         <a href="blog-details.html">
-                            <img src="{{asset('assets/img/blog/blog-2.jpg')}}" alt="Blog Img">
+                            <img src="{{asset('assets/img/blog/Capture.PNG')}}" alt="Blog Img">
                         </a>
 
                     </div>
-                    <span class="tag">Business</span>
+                    <span class="tag" style="background-color: #143966">Business</span>
                     <div class="blogs__meta mb-1">
                         <span>January 21, 2022 / By </span>
                         <span class="author">Admin</span>
                     </div>
-                    <h5><a class="blog-title" href="blog-details.html">Designing Human-Machine Interfaces For
-                            Vehicles Of The Future</a></h5>
+                    <h5><a class="blog-title" href="blog-details.html">Projetando interfaces homem-máquina para
+                        Veículos do Futuro</a></h5>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="blogs mb-30">
                     <div class="blogs__thumb mb-35">
                         <a href="blog-details.html">
-                            <img src="{{asset('assets/img/blog/blog-3.jpg')}}" alt="Blog Img">
+                            <img src="{{asset('assets/img/blog/Capture.PNG')}}" alt="Blog Img">
+                            {{-- <img src="{{asset('assets/img/blog/blog-3.jpg')}}" alt="Blog Img"> --}}
                         </a>
 
                     </div>
-                    <span class="tag">Business</span>
+                    <span class="tag" style="background-color: #143966">Business</span>
                     <div class="blogs__meta mb-1">
                         <span>January 21, 2022 / By </span>
                         <span class="author">Admin</span>
                     </div>
-                    <h5><a class="blog-title" href="blog-details.html">Designing Human-Machine Interfaces For
-                            Vehicles Of The Future</a></h5>
+                    <h5><a class="blog-title" href="blog-details.html">Projetando interfaces homem-máquina para
+                        Veículos do Futuro</a></h5>
                 </div>
             </div>
         </div>
