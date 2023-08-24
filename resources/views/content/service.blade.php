@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    {{-- <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -23,7 +23,7 @@ Ocorrencias
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
     <!--page-title-area end-->
     <!--services-area start-->
     <section class="services-area pt-120 pb-80 mb-10 pt-md-60 pb-md-25 pt-xs-50 pb-xs-20">
@@ -35,7 +35,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv1.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> Infra-Estrutura</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon"> Infra-Estrutura</h5>
                             <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -48,7 +48,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv2.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon">Segurança</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon3.png" alt="Icon">Segurança</h5>
                             <p>O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -61,7 +61,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv3.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon3.png" alt="Icon"> R&D</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> R&D</h5>
                             <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -71,10 +71,10 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-4.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/serv4.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon10.png" alt="Icon"> GESTÃO DE PROJECTOS</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon10.png" alt="Icon"> Gestão de Projectos</h5>
                             <p>Possuímos recursos e talento necessários para executar as necessidades dos nossos clientes dentro dos prazos acordados...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -84,10 +84,10 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-5.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/erpnext.png" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> ERPNEXT</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> ERPNEXT</h5>
                             <p>Sistema de gestão RH, estoque, projetos e recursos de CRM, alem disso a plataforma oferece funcoes de contabilidaden, RH e folha de pagamento...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -97,10 +97,10 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="single-services mb-150">
                         <div class="services__thumb">
-                            <img class="img-fluid" src="assets/img/services/service-6.jpg" alt="Services Img">
+                            <img class="img-fluid" src="assets/img/services/serv6.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> Analise de Sistemas</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> Análise de Sistemas</h5>
                             <p>Desenvolvemos soluções para as empresas por meio de sistemas informatizados para empresas. Fazemos o trabalho de analise, documentacao...</p>
                             <a class="service-btn" href="services-details.html">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -227,7 +227,7 @@ Ocorrencias
         <div class="container">
             <div class="row">
                 <div class="col-12 brand-title mb-60">
-                    <h5 class="border-bg">Happy Users</h5>
+                    <h5 class="border-bg">Parceiros</h5>
                 </div>
             </div>
             <div class="row">
