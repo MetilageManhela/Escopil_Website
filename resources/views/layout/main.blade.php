@@ -497,10 +497,14 @@ faq-area end-->
                 </div>
             </div>
             <div class="col-lg-6 col-md-12" >
-                <div class="video-wrapper" >
-                    {{-- <a href="https://www.youtube.com/watch?v=yeZpJ6lJC54" class="popup-video"><i
-                            class="fas fa-play"></i></a> --}}
-                </div>
+                {{-- <div class="video-wrapper" >
+                    <a href="https://www.youtube.com/watch?v=yeZpJ6lJC54" class="popup-video"><i
+                            class="fas fa-play"></i></a>
+                </div> --}}<div class="about-img-wrapper pos-rel mb-30">
+                    {{-- <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape"> --}}
+                    <img style="height: 600px" class="img-fluid" src="{{asset('assets/img/about/three-professionals-on-couch.jpg')}}" alt="About Img">
+                </div
+                
             </div>
         </div>
     </div>
