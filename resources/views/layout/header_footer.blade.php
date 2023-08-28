@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="x-ua-compatible" content="ie=edge" />
-	<title>Finanix - Consulting & Business HTML5 Template</title>
+	<title>Escopil Tecnologia</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<link rel="manifest" href="site.webmanifest" />
