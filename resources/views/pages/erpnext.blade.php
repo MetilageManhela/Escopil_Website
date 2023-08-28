@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/services/service-7.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/services/serv11.png" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20"> Erpnext</h3>
                         <p class="mb-30">O ERPNext permite gerenciamento de RH, ferramentas de colaboração, gerenciamento de estoque, gerenciamento de projetos e recursos de CRM.
                             Além disso, a plataforma também oferece funções de contabilidade, RH e folha de pagamento, gestão de projetos, help desk e controle de conteúdo por meio de sites, blogs e formulários</p>
