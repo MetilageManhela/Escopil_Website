@@ -19,7 +19,7 @@ Ocorrencias
                             <li><a href="index.html">Home /</a></li>
                             <li class="active" aria-current="page">Sobre Nós</li>
                         </ul>
-                        <h2 class="page-title">About us</h2>
+                        <h2 class="page-title">Sobre Nós</h2>
                     </div>
                 </div>
             </div>

@@ -58,7 +58,7 @@ Ocorrencias
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
                               
-                                <img class="img-fluid" src="{{ asset('/assets/imagens/coo.png') }}" alt="Hero Img">
+                                <img class="img-fluid" src="{{ asset('assets/img/slider/coo.png') }}" alt="Hero Img">
 
                             </div>
                         </div>
