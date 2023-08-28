@@ -121,7 +121,7 @@
 											<li class="nav-item dropdown active">
 												<a style="color: #245FA7" class="nav-link dropdown-toggle" href="{{route('home.page')}}"
 													{{-- id="navbarDropdown1" role="button" data-bs-toggle="dropdown" --}}
-													aria-expanded="false">Início
+													aria-expanded="false">Home
 													<i class="fal fa-chevron-down"></i></a>
 												{{-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
 													<li class="dropdown-submenu">

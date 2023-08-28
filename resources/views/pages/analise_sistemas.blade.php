@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/services/service-7.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/services/serv12.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20"> Analise de Sistemas</h3>
                         <p class="mb-30">Desenvolvemos soluções específicas em sistemas informatizados para empresas. Fazemos o trabalho de analise, documentacao, projetar, implementar, testar e gerenciar os sistemas de informações necessários para os negócios do clientes.</p>
                        
