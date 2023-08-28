@@ -185,7 +185,7 @@ Ocorrencias
                                 </div>
 
                                 <div class="col-12 mb-15">
-                                    <button class="form-btn" style="background-color: rgb(17, 17, 94)">Submeter</button>
+                                    <button class="form-btn" style="background-color: #245FA7">Submeter</button>
                                 </div>
                             </form>
                         </div>

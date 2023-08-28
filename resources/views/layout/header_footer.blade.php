@@ -95,7 +95,7 @@
 								<div class="icon" ><i class="fal fa-clock"></i></div>
 								<div class="query-list" style="color: #245FA7">
 									<span style="color: #245FA7">Seg. - Sex. 8.00 - 17.00</span>
-									<span style="color: #245FA7">Domingo: <strong>Fechado</strong></span>
+									<span style="color: #245FA7">Domingo: <strong style="color: #245FA7">Fechado</strong></span>
 								</div>
 							</li>
 							{{-- <li style="background-color: #415ca4">
