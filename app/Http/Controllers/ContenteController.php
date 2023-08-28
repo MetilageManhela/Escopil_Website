@@ -25,5 +25,29 @@ class ContenteController extends Controller
     public function sobreNos(){
         return view('content.sobre_nos');
     }
+
+    public function seguranca(){
+        return view('pages.seguranca');
+    }
+    public function rd(){
+        return view('pages.rd');
+    }
+
+    public function getaoProjecto(){
+        return view('pages.gestao_projecto');
+    }
+
+    public function erpnext(){
+        return view('pages.erpnext');
+    }
+
+    public function analiseSistemas(){
+        return view('pages.analise_sistemas');
+    }
+
+    public function infraEstrutura(){
+        return view('pages.infra_estrutura');
+    }
+    
 }
 

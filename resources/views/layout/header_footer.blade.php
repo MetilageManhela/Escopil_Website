@@ -425,7 +425,7 @@
 						<ul class="fot-list fot-list-1">
 							<li><a href="#">(+990) 155 695 69 365</a></li>
 							<li><a href="#">support@example.com</a></li>
-							<li><a href="#">Office Hours: <span>8AM - 11PM</span></a>
+							<li><a href="#">Office Hours: <span style="color: aliceblue">8AM - 11PM</span></a>
 							</li>
 							<li>
 								<a href="#">24/B, Hilington City Tower NYC,US </a>
@@ -444,7 +444,7 @@
 								<input type="text" placeholder="Enter email address">
 							</div>
 
-							<button class="theme_btn subscribe-btn" style="background-color: ">Subscribe Now <i
+							<button class="theme_btn subscribe-btn" style="background-color:#0d305c ">Subscribe Now <i
 									class="fal fa-long-arrow-right"></i></button>
 						</form>
 					</div>

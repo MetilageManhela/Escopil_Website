@@ -37,7 +37,7 @@ Ocorrencias
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon2.png" alt="Icon"> Infra-Estrutura</h5>
                             <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
-                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
+                            <a class="service-btn" href="{{route('infra_estrutura.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ Ocorrencias
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon3.png" alt="Icon">Segurança</h5>
                             <p>O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos...</p>
-                            <a class="service-btn" href="services-details.html">Mais Detalhes<i
+                            <a class="service-btn" href="{{route('seguranca.pages')}}">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ Ocorrencias
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> R&D</h5>
                             <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
-                            <a class="service-btn" href="services-details.html">Mais Detalhes<i
+                            <a class="service-btn" href="{{route('rd.pages')}}">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ Ocorrencias
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon10.png" alt="Icon"> Gestão de Projectos</h5>
                             <p>Possuímos recursos e talento necessários para executar as necessidades dos nossos clientes dentro dos prazos acordados...</p>
-                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
+                            <a class="service-btn" href="{{route('gestao_projecto.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ Ocorrencias
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> ERPNEXT</h5>
                             <p>Sistema de gestão RH, estoque, projetos e recursos de CRM, alem disso a plataforma oferece funcoes de contabilidaden, RH e folha de pagamento...</p>
-                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
+                            <a class="service-btn" href="{{route('erpnext.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
@@ -102,7 +102,7 @@ Ocorrencias
                         <div class="services__content text-center">
                             <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> Análise de Sistemas</h5>
                             <p>Desenvolvemos soluções para as empresas por meio de sistemas informatizados para empresas. Fazemos o trabalho de analise, documentacao...</p>
-                            <a class="service-btn" href="services-details.html">Mais Detalhes <i
+                            <a class="service-btn" href="{{route('analise_sistema.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
