@@ -430,7 +430,7 @@ faq-area end-->
 
                         </p>
                         
-                        <img src="{{asset('assets/img/portfolio/portfolio-2.jpg')}}" alt="Portfolio Img">
+                        <img src="{{asset('assets/img/portfolio/portfolio-2.png')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
@@ -466,7 +466,7 @@ faq-area end-->
                         <h5>Instituto Nacional de Viação (INAV)</h5>
                         <p>Desenhámos um sistema de registo de veículos e automatização das c...</p>
                         
-                        <img src="{{asset('assets/img/portfolio/portfolio-5.jpg')}}" alt="Portfolio Img">
+                        <img src="{{asset('assets/img/portfolio/portfolio5.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="portfolio-details.html">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
