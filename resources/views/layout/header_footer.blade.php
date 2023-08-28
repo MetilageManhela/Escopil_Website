@@ -119,7 +119,7 @@
 									<div class="collapse navbar-collapse" id="navbarSupportedContent">
 										<ul class="navbar-nav list-style-none">
 											<li class="nav-item dropdown active">
-												<a class="nav-link dropdown-toggle" href="{{route('home.page')}}"
+												<a style="color: #245FA7" class="nav-link dropdown-toggle" href="{{route('home.page')}}"
 													{{-- id="navbarDropdown1" role="button" data-bs-toggle="dropdown" --}}
 													aria-expanded="false">Início
 													<i class="fal fa-chevron-down"></i></a>
