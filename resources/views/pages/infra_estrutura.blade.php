@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/services/service-7.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/services/serv7.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">Infra-Estrutura</h3>
                         <p class="mb-30">Na Escopil, uma das nossas áreas de actuação consiste na montagem de redes e infra-estruturas de Tecnologias de Informação para vários cenários de ligação de redes.
                             Oferecemos:</p>

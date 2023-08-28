@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/services/service-7.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/services/serv9.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">R&D</h3>
                         <p class="mb-30">Estamos há quase duas décadas na linha de frente da implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes. Como parte da nossa estratégia de crescimento, desenvolvemos ainda os nossos próprios produtos, disponibilizados em Moçambique e na região.
 

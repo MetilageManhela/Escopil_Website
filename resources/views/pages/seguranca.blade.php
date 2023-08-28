@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/services/service-7.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/services/serv8.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">Segurança</h3>
                         <p class="mb-30">O nosso maior objectivo é satisfazer a necessidade do cliente, assegurando a segurança física e logística dos equipamentos.
 
