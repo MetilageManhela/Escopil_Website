@@ -393,7 +393,7 @@
 			<div class="row mb-15">
 				<div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay=".1s">
 					<div class="footer__widget mb-30">
-						<h6 class="widget-title text-white pb-20 mb-35">About Company</h6>
+						<h6 class="widget-title text-white pb-20 mb-35">A Empresa</h6>
 						<p>Modern HMIs are transforming the way
 							we interact with our vehicles. A becomes
 							a gadget that we use in a similar way as
@@ -409,42 +409,43 @@
 				</div>
 				<div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay=".3s">
 					<div class="border-theme footer__widget mb-30 pl-135 pl-md-0 pl-xs-0">
-						<h6 class="widget-title text-white pb-20 mb-35">Our Services</h6>
+						<h6 class="widget-title text-white pb-20 mb-35">Nossos Serviços</h6>
 						<ul class="fot-list">
-							<li><a href="#">Business Planning</a></li>
-							<li><a href="#">Tax Strategy</a></li>
-							<li><a href="#">Financial Advices</a></li>
-							<li><a href="#">Insurance Strategy</a></li>
-							<li><a href="#">Manage Investment</a></li>
+							<li><a href="#">Infra-Estrutura</a></li>
+							<li><a href="#">Segurança</a></li>
+							<li><a href="#">R&D</a></li>
+							<li><a href="#">Gestão de Projectos</a></li>
+							<li><a href="#">ERP Next</a></li>
+							<li><a href="#">Análise de Sistemas</a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay=".5s">
 					<div class="footer__widget mb-25 pl-25 pl-md-0 pl-xs-0">
-						<h6 class="widget-title text-white pb-20 mb-35">Get In Touch</h6>
+						<h6 class="widget-title text-white pb-20 mb-35">Entre em Contacto</h6>
 						<ul class="fot-list fot-list-1">
-							<li><a href="#">(+990) 155 695 69 365</a></li>
+							<li><a href="#">(+258) xx xx xx xxx</a></li>
 							<li><a href="#">support@example.com</a></li>
-							<li><a href="#">Office Hours: <span style="color: aliceblue">8AM - 11PM</span></a>
+							<li><a href="#">Horário: <span style="color: aliceblue">08h - 17h</span></a>
 							</li>
 							<li>
-								<a href="#">24/B, Hilington City Tower NYC,US </a>
+								<a href="#">406, Av. Ahmed S. Toure, Maputo, MZ </a>
 							</li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp2 animated" data-wow-delay=".7s">
 					<div class="footer__widget mb-30">
-						<h6 class="widget-title text-white pb-20 mb-35">Subscribe Now</h6>
+						<h6 class="widget-title text-white pb-20 mb-35">Subscreva</h6>
 						<form class="subscribe-form" action="#">
 							<div class="input-box mb-10" >
-								<input type="text" placeholder="Your name">
+								<input type="text" placeholder="Nome Completo">
 							</div>
 							<div class="input-box mail-input mb-10">
-								<input type="text" placeholder="Enter email address">
+								<input type="text" placeholder="Endereço e-mail">
 							</div>
 
-							<button class="theme_btn subscribe-btn" style="background-color:#0d305c ">Subscribe Now <i
+							<button class="theme_btn subscribe-btn" style="background-color:#0d305c ">Subscreva<i
 									class="fal fa-long-arrow-right"></i></button>
 						</form>
 					</div>
@@ -461,7 +462,7 @@
 				<div class="col-lg-6 col-md-8 text-center text-md-end">
 					<ul class="footer-nav">
 						<li class="nav-item">
-							<a class="nav-link" href="about.html">About Us</a>
+							<a class="nav-link" href="about.html">Sobre Nós</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="faq.html">FAQ</a>
@@ -470,7 +471,7 @@
 							<a class="nav-link" href="blog-details.html">Blog</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">Contact Us</a>
+							<a class="nav-link" href="contact.html">Contacte-nos</a>
 						</li>
 					</ul>
 				</div>
@@ -481,7 +482,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-12">
 						<div class="copyright mb-30 text-center">
-							<h6>Copyright & Design By <a href="index.html">@ReacThemes</a> - 2022</h6>
+							<h6>Copyright & Design By <a href="index.html">@ReacThemes</a> - 2023</h6>
 						</div>
 					</div>
 				</div>

@@ -166,7 +166,7 @@ Ocorrencias
 
                                 <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-profile1" type="button" role="tab"
-                                aria-controls="nav-profile" aria-selected="false">02. <span>Valores</span>
+                                aria-controls="nav-profile" aria-selected="false">03. <span>Valores</span>
                                 <i class="fal fa-long-arrow-down"></i></button>
                         </div>
                     </nav>
@@ -214,7 +214,7 @@ Ocorrencias
                         <img class="img-fluid" src="{{asset('assets/img/services/serv1.jpg')}}" alt="Services Img">
                     </div>
                     <div class="services__content text-center" style="background-color: #143966">
-                        <h5   class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Ifra-Estrututa</h5>
+                        <h5   class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Infra-Estrutura</h5>
                         <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
                         <a class="service-btn" href="{{route('infra_estrutura.pages')}}">Mais Detalhes<i 
                                 class="fal fa-long-arrow-right"></i></a>
@@ -504,13 +504,11 @@ faq-area end-->
                             -
                             gurança, e software, de forma a podermos re
                             -
-                            sponder, com inovação e criatividade, às  <strong>neces
-                                -
-                                sidades específicas do mercado.</strong>
+                            sponder, com inovação e criatividade, às  <strong>necessidades específicas do mercado.</strong>
                         </p>
                     </div>
                     <ul class="text-list list-none">
-                        <li>Eficiencia </li>
+                        <li>Eficiência </li>
                         <li>Eficácia</li>
                     </ul>
                     <a href="#" class="theme_btn theme-border-btn mt-20">Descubra agora <i
@@ -518,14 +516,14 @@ faq-area end-->
                 </div>
             </div>
             <div class="col-lg-6 col-md-12" >
-                {{-- <div class="video-wrapper" >
+                <!--<div class="video-wrapper" >
                     <a href="https://www.youtube.com/watch?v=yeZpJ6lJC54" class="popup-video"><i
                             class="fas fa-play"></i></a>
-                </div> --}}<div class="about-img-wrapper pos-rel mb-30">
+                    </div> -->
+                <div class="about-img-wrapper pos-rel mb-30">
                     {{-- <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape"> --}}
-                    <img style="height: 600px" class="img-fluid" src="{{asset('assets/img/about/three-professionals-on-couch.jpg')}}" alt="About Img">
-                </div
-                
+                    <img style="height: 600px" class="img-fluid" src="{{asset('assets/img/about/ofuturo.jpg')}}" alt="About Img">
+                </div  
             </div>
         </div>
     </div>
