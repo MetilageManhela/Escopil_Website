@@ -18,7 +18,7 @@ Ocorrencias
                             <li><a href="#">Home /</a></li>
                             <li class="active" aria-current="page">Nossos Serviços</li>
                         </ul>
-                        <h2 class="page-title">Nossos Trabalhos</h2>
+                        <h2 class="page-title">Nossos Serviços</h2>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv3.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> R&D</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> R&D</h5>
                             <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
                             <a class="service-btn" href="{{route('rd.pages')}}">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -87,7 +87,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/erpnext.png" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> ERPNEXT</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon16.png" alt="Icon"> ERPNEXT</h5>
                             <p>Sistema de gestão RH, estoque, projetos e recursos de CRM, alem disso a plataforma oferece funcoes de contabilidaden, RH e folha de pagamento...</p>
                             <a class="service-btn" href="{{route('erpnext.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -100,7 +100,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv6.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> Análise de Sistemas</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon17.png" alt="Icon"> Análise de Sistemas</h5>
                             <p>Desenvolvemos soluções para as empresas por meio de sistemas informatizados para empresas. Fazemos o trabalho de analise, documentacao...</p>
                             <a class="service-btn" href="{{route('analise_sistema.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
