@@ -50,7 +50,7 @@
 					<div class="col-md-6 col-6" >
 						<div class="left-cta">
 							<span style="color: #245FA7"><i class="fal fa-envelope"></i> info@webmail.com</span>
-							<span style="color: #245FA7"><i class="fal fa-phone"></i> 890. 896. 675. 80</span>
+							<span style="color: #245FA7"><i class="fal fa-phone"></i> +258 XX XX XXX</span>
 						</div>
 					</div>
 					<div class="col-md-6 col-6 text-end">
@@ -87,15 +87,15 @@
 							<li>
 								<div class="icon"><i class="fal fa-map-marker-alt"></i></div>
 								<div class="query-list" style="color: #245FA7">
-									<span style="color: #245FA7">406, Av. Ahmed S. Toure</span>
-									<span style="color: #245FA7">Maputo, B. Central, MZ.</span>
+									<span style="color: #245FA7">406/RC, Av. Ahmed S. Toure</span>
+									<span style="color: #245FA7">Maputo, MZ.</span>
 								</div>
 							</li>
 							<li>
 								<div class="icon" ><i class="fal fa-clock"></i></div>
 								<div class="query-list" style="color: #245FA7">
-									<span style="color: #245FA7">Seg. - Sex. 8.00 - 17.00</span>
-									<span style="color: #245FA7">Domingo: <strong style="color: #245FA7">Fechado</strong></span>
+									<span style="color: #245FA7">Seg. - Sex.: 08:00 - 17:00</span>
+									<span style="color: #245FA7">Sab. - Dom.: <strong style="color: #245FA7">Fechado</strong></span>
 								</div>
 							</li>
 							{{-- <li style="background-color: #415ca4">
@@ -429,7 +429,7 @@
 							<li><a href="#">Horário: <span style="color: aliceblue">08h - 17h</span></a>
 							</li>
 							<li>
-								<a href="#">406, Av. Ahmed S. Toure, Maputo, MZ </a>
+								<a href="#">406/RC, Av. Ahmed S. Toure, Maputo, MZ </a>
 							</li>
 						</ul>
 					</div>

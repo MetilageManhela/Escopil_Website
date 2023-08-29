@@ -15,6 +15,7 @@ Ocorrencias
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
                     <div class="row align-items-center" style="background-color: #245FA7">
+                        
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
@@ -30,7 +31,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/pexels-anna.png" alt="Hero Img">
+                                <img class="img-fluid" src="assets/img/slider/slide1.jpg" alt="Hero Img">
                             </div>
                         </div>
                     </div>
@@ -58,7 +59,7 @@ Ocorrencias
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
                               
-                                <img class="img-fluid" src="{{ asset('assets/img/slider/coo.png') }}" alt="Hero Img">
+                                <img class="img-fluid" src="{{ asset('assets/img/slider/slide2.jpg') }}" alt="Hero Img">
 
                             </div>
                         </div>
@@ -89,7 +90,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/friends.png" alt="Hero Img">  
+                                <img class="img-fluid" src="assets/img/slider/slide3.jpg" alt="Hero Img">  
                             </div>
                         </div>
                     </div>
@@ -99,7 +100,7 @@ Ocorrencias
     </div>
 </div>
 <!--slider-area end-->
-<!--feature-area start-->
+<!--feature-area start
 <section class="feature-area pb-30">
     <div class="container-fluid px-0">
         <div class="row gx-0">
@@ -130,7 +131,7 @@ Ocorrencias
         </div>
     </div>
 </section>
-<!--feature-area end-->
+feature-area end-->
 <!--about-us-area start-->
 <section class="about-us-area pt-90 pb-90 pb-md-25 pt-xs-50 pb-xs-30">
     <div class="container">

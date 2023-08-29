@@ -71,7 +71,7 @@ Ocorrencias
                                 <div class="col-12">
                                     <div class="input-box text-input mb-30">
                                         <textarea name="message" cols="30" rows="10"
-                                            placeholder="Escreva-nos>
+                                            placeholder="Escreva-nos"></textarea>
                                     </div>
                                 </div>
 

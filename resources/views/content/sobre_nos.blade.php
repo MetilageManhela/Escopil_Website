@@ -105,7 +105,7 @@ Ocorrencias
                         <div class="col-lg-6 ">
                             <div class="left-content mb-30">
                                 <h2>Missão</h2>
-                                {{-- <h4>Construindo uma equipa sólida</h4> --}}
+                               <!-- {{-- <h4>Construindo uma equipa sólida</h4> --}}-->
                                 <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                             </div>
                         </div>
