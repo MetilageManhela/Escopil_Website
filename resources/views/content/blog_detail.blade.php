@@ -31,7 +31,7 @@ Ocorrencias
             <div class="row mb-15">
                 <div class="col-lg-8">
                     <div class="news-details-left mb-30">
-                        <div class="blogs__meta">
+                        {{-- <div class="blogs__meta">
                             <span><i class="fal fa-eye"></i> 100 Views</span>
                             <span class="border-line2"><i class="fal fa-comments"></i> 30 Comments</span>
                             <span><i class="fal fa-calendar-alt"></i> 24th March 2022</span>
@@ -52,7 +52,7 @@ Ocorrencias
                             strategy. That is until
                             you are confronted with the realization that the next step function in improving
                             conversion rates and business.
-                        </p>
+                        </p> --}}
                         <img class="img-fluid" src="assets/img/blog/blog-15.jpg" alt="Blog Img">
                         <h3 class="mt-55 mb-25"><a class="s-sub-title" href="blog-details.html">A cleansing
                                 hot shower or bath</a></h3>
@@ -65,7 +65,13 @@ Ocorrencias
                             similar to an open Tetris
                             board where each “slot” can and should be dynamically tailored by dynamic visitor
                             preferences, all powered by an ever-growing set of dynamic business rules.</p>
-                        <h3 class="mt-50 mb-20"><a class="s-sub-title" href="blog-details.html">Setting the mood
+
+                            <div class="blogs__meta">
+                                <span><i class="fal fa-eye"></i> 100 Views</span>
+                                <span class="border-line2"><i class="fal fa-comments"></i> 30 Comments</span>
+                                <span><i class="fal fa-calendar-alt"></i> 24th March 2022</span>
+                            </div>
+                        {{-- <h3 class="mt-50 mb-20"><a class="s-sub-title" href="blog-details.html">Setting the mood
                                 with incense</a></h3>
                         <div class="boxes mb-55">
                             <img class="box-img" src="assets/img/blog/blog-16.jpg" alt="Img">
@@ -76,8 +82,8 @@ Ocorrencias
                                 foundation, we add layers of
                                 caching, prerendering and edge delivery
                                 optimizations — not the other way around.</p>
-                        </div>
-                        <blockquote class="blog-block text-center mb-50">
+                        </div> --}}
+                        {{-- <blockquote class="blog-block text-center mb-50">
                             <div class="icon"><i class="fas fa-quote-left"></i></div>
                             <h3 class="mb-30">Choices to take a holiday and travelling
                                 out inthis pandemic situation are limited. Why not
@@ -95,8 +101,8 @@ Ocorrencias
                             framework. It’s a React-based
                             framework optimized for commerce and specialized to be powered by Shopify APIs and
                             infrastructure: The future
-                            of commerce is dynamic and personalized.</p>
-                        <div class="row share-social px-0 mt-55 pb-15">
+                            of commerce is dynamic and personalized.</p> --}}
+                        {{-- <div class="row share-social px-0 mt-55 pb-15">
                             <div class="col-lg-6 col-md-6 mb-30">
                                 <h5 class="fs-20 mb-20">Releted Tags</h5>
                                 <div class="tag-list">
@@ -136,8 +142,8 @@ Ocorrencias
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="authors mt-60 mb-50">
+                        </div> --}}
+                        {{-- <div class="authors mt-60 mb-50">
                             <div class="author-img">
                                 <img src="assets/img/blog/blog-author2.jpg" alt="Img">
                             </div>
@@ -209,7 +215,7 @@ Ocorrencias
                                     </div>
                                 </li>
                             </ul>
-                        </div>
+                        </div> --}}
                         <div class="comment-form">
                             <h3 class="post-title mb-35">Post Comment</h3>
                             <form class="contact-form" action="#">
@@ -236,7 +242,7 @@ Ocorrencias
                                         </div>
                                     </div>
                                     <div class="col-12 mb-15">
-                                        <button class="form-btn"><i class="fal fa-comments"></i> Post
+                                        <button class="form-btn" style="background-color: #245FA7"><i class="fal fa-comments"></i> Post
                                             Comment</button>
                                     </div>
                                 </div>
@@ -270,10 +276,10 @@ Ocorrencias
                             </div>
                             <form class="subscribe-form mb-10" action="#">
                                 <input type="text" placeholder="Search your keyword...">
-                                <button class="subscribe-btn"><i class="fal fa-search"></i></button>
+                                <button style="background-color: #245FA7" class="subscribe-btn"><i class="fal fa-search"></i></button>
                             </form>
                         </div>
-                        <div class="widget widget-post mb-40">
+                        {{-- <div class="widget widget-post mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Popular Feeds</h4>
                             </div>
@@ -327,7 +333,7 @@ Ocorrencias
                                     </div>
                                 </li>
                             </ul>
-                        </div>
+                        </div> --}}
                         <div class="widget widget-categories-list mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Categories</h4>
@@ -340,7 +346,7 @@ Ocorrencias
                                 <li><a href="#">Technologys <span class="f-right">60</span></a></li>
                             </ul>
                         </div>
-                        <div class="widget widget-categories-tag mb-40">
+                        {{-- <div class="widget widget-categories-tag mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Instagram Feeds</h4>
                             </div>
@@ -364,7 +370,7 @@ Ocorrencias
                             <div class="banner-content mb-10">
                                 <img class="img-fluid" src="assets/img/blog/blog-13.jpg" alt="banner">
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>

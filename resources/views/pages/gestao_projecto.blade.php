@@ -144,17 +144,17 @@ Ocorrencias
                                 <h4 class="widget-sub-title2">Tipo de Serviços</h4>
                             </div>
                             <ul class="list-none">
-                                <li><a href="#"> Infra-Estrutura <span class="f-right"><i
+                                <li><a href="{{route('infra_estrutura.pages')}}"> Infra-Estrutura <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="#">Segurança <span class="f-right"><i
+                                <li><a href="{{route('seguranca.pages')}}">Segurança <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="#">R&D <span class="f-right"><i
+                                <li><a href="{{route('rd.pages')}}">R&D <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="#">Gestão de Projectos<span class="f-right"><i
+                                {{-- <li><a href="{{route('gestao_projecto.pages')}}">Gestão de Projectos<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li> --}}
+                                <li><a href="{{route('gestao_projecto.pages')}}">ERPNEXT <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="#">ERPNEXT <span class="f-right"><i
-                                                class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="#">Análise de Sistemas <span class="f-right"><i
+                                <li><a href="{{route('erpnext.pages')}}">Análise de Sistemas <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
                             </ul>
                         </div>
@@ -187,7 +187,7 @@ Ocorrencias
                                 </div>
 
                                 <div class="col-12 mb-15">
-                                    <button class="form-btn" style="background-color: rgb(17, 17, 94)">Submeter</button>
+                                    <button class="form-btn" style="background-color: #245FA7">Submeter</button>
                                 </div>
                             </form>
                         </div>

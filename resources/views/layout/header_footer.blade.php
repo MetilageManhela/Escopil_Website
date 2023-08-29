@@ -95,7 +95,7 @@
 								<div class="icon" ><i class="fal fa-clock"></i></div>
 								<div class="query-list" style="color: #245FA7">
 									<span style="color: #245FA7">Seg. - Sex. 8.00 - 17.00</span>
-									<span style="color: #245FA7">Domingo: <strong>Fechado</strong></span>
+									<span style="color: #245FA7">Domingo: <strong style="color: #245FA7">Fechado</strong></span>
 								</div>
 							</li>
 							{{-- <li style="background-color: #415ca4">
@@ -119,7 +119,7 @@
 									<div class="collapse navbar-collapse" id="navbarSupportedContent">
 										<ul class="navbar-nav list-style-none">
 											<li class="nav-item dropdown active">
-												<a class="nav-link dropdown-toggle" href="{{route('home.page')}}"
+												<a style="color: #245FA7" class="nav-link dropdown-toggle" href="{{route('home.page')}}"
 													{{-- id="navbarDropdown1" role="button" data-bs-toggle="dropdown" --}}
 													aria-expanded="false">Home
 													<i class="fal fa-chevron-down"></i></a>
