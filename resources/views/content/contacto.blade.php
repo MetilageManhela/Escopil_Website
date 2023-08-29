@@ -45,23 +45,23 @@ Ocorrencias
                             <form class="row contact-form" action="#">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mb-20">
-                                        <input type="text" placeholder="Full name">
+                                        <input type="text" placeholder="Nome Completo">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mail-input mb-20">
-                                        <input type="text" placeholder="Email address">
+                                        <input type="text" placeholder="Endereço de E-mail">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box bud-input mb-20">
-                                        <input type="text" placeholder="Budget">
+                                        <input type="text" placeholder="Orçamento">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 mb-20">
                                     <div class="input-box sub-input">
                                         <select name="job" class="job-select">
-                                            <option value="Subject">Subject</option>
+                                            <option value="Subject">Assunto</option>
                                             <option value="">It</option>
                                             <option value="">Development</option>
                                             <option value="">Ui/Ux</option>
@@ -71,7 +71,7 @@ Ocorrencias
                                 <div class="col-12">
                                     <div class="input-box text-input mb-30">
                                         <textarea name="message" cols="30" rows="10"
-                                            placeholder="Enter massge"></textarea>
+                                            placeholder="Escreva-nos>
                                     </div>
                                 </div>
 
@@ -112,7 +112,7 @@ Ocorrencias
                 </div>
                 <div class="col-lg-4 col-md-12">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">horas de funcionamento</h5>
+                        <h5 class="fs-20 mb-20">Horas de Funcionamento</h5>
                         <p>Segunda - Sexta: 08:00 às 17:00</p>
                         {{-- <p>Av. Ahmed S. Toure 406/RC</p> --}}
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
