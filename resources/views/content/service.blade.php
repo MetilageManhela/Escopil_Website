@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/servicos.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
