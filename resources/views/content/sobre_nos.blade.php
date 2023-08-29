@@ -83,7 +83,7 @@ Ocorrencias
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
                                 <h2>Visão</h2>
-                                {{-- <h4>Company Foundation</h4> --}}
+                              <!--  {{-- <h4>Company Foundation</h4> --}} -->
                                 <p><strong>Líderar na</strong> transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes.</p>
                             </div>
                         </div>
@@ -94,6 +94,7 @@ Ocorrencias
                         </div>
                     </div>
                 </li>
+                
                 <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
@@ -110,22 +111,21 @@ Ocorrencias
                         </div>
                     </div>
                 </li>
+                
                 <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
                                 <h2>Valores</h2>
-                                {{-- <h4>Company Foundation</h4>
+                               <!-- {{-- <h4>Company Foundation</h4>
                                 <p>The sontent provides fully integrated
-                                    marketing services designed</p> --}}
+                                    marketing services designed</p> --}} -->
                                
                                     <p>Cultura de inovação;</p>
                                     <p>Priorização do cliente;</p>
                                     <p>Aposta na Tecnologia como serviço para uma sociedade melhor;</p>
                                     <p>Responsabilidade social; </p>
-                                    <p>Conduta ética em todas as acções</p>
-                                   
-                                
+                                    <p>Conduta ética em todas as acções</p>                                
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -135,7 +135,7 @@ Ocorrencias
                         </div>
                     </div>
                 </li>
-                {{-- <li>
+                <!--{{-- <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -219,7 +219,7 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li> --}}
+                </li> --}}-->
             </ul>
         </div>
     </section>
