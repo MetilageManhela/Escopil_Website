@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/pexels-kindel-media-6774143.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/contacto.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -16,9 +16,9 @@ Ocorrencias
                     <div class="page-title-wrapper pt-30 pt-lg-40 pt-md-10 pt-xs-10">
                         <ul class="breadcrumb">
                             <li><a href="index.html">Home /</a></li>
-                            <li class="active" aria-current="page">Contact</li>
+                            <li class="active" aria-current="page">Contacto</li>
                         </ul>
-                        <h2 class="page-title">Get In Touch</h2>
+                        <h2 class="page-title">Entre em Contacto</h2>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@ Ocorrencias
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-input-wrapper mb-30">
                             <div class="section-title mb-25">
-                                <h6 class="semi-title mb-10">Make Custom Request</h6>
+                                <h6 class="semi-title mb-10">Faça solicitação personalizada</h6>
                                 <h2 class="sect-title mb-35">Fale nos sobre os seus projectos</h2>
                             </div>
                             <form class="row contact-form" action="#">
@@ -86,7 +86,7 @@ Ocorrencias
             <div class="row align-items-center justify-content-center pt-120 pt-md-60 pt-xs-60">
                 <div class="col-xl-8">
                     <div class="section-title text-center mb-55">
-                        <h6 class="semi-title mb-10">Catch Us Here</h6>
+                        <h6 class="semi-title mb-10">Encontre-nos aqui</h6>
                         <h2 class="sect-title">Informação de Contacto</h2>
                         <p >Alcance nossa equipe de especialistas</p>
                        <p> Envie uma mensagem através do formulário fornecido. Se sua pergunta for urgente, use os detalhes de contato abaixo.</p>

@@ -9,7 +9,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/pexels-kindel-media-6774143.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/sobrenos.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
