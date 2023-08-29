@@ -96,7 +96,7 @@ Ocorrencias
             <div class="row pb-90 pb-md-30 pb-xs-30">
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">Endereço postal</h5>
+                        <h5 class="fs-20 mb-20">Endereço Postal</h5>
                         <p>Maputo - Mozambique</p>
                         <p>Av. Ahmed S. Toure 406/RC</p>
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
@@ -105,15 +105,15 @@ Ocorrencias
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
                         <h5 class="fs-20 mb-20">Contactos</h5>
-                        <p>Phone: +258 84 314 7940 & +258 21 492 725</p>
-                        <p>Email: comercial.tec@escopil.co.mz</p>
+                        <p>Tel.: +258 84 314 7940 & +258 21 492 725</p>
+                        <p>E-mail: comercial.tec@escopil.co.mz</p>
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
                     <div class="contact-box mb-30">
                         <h5 class="fs-20 mb-20">horas de funcionamento</h5>
-                        <p>monday - friday: 08:00 to 17.00</p>
+                        <p>Segunda - Sexta: 08:00 às 17:00</p>
                         {{-- <p>Av. Ahmed S. Toure 406/RC</p> --}}
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
