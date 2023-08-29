@@ -521,7 +521,7 @@ faq-area end-->
                             class="fas fa-play"></i></a>
                     </div> -->
                 <div class="about-img-wrapper pos-rel mb-30">
-                    {{-- <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape"> --}}
+                    <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape">
                     <img style="height: 600px" class="img-fluid" src="{{asset('assets/img/about/ofuturo.jpg')}}" alt="About Img">
                 </div  
             </div>
