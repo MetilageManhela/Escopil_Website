@@ -29,9 +29,9 @@ Route::get('/service_detail', function () {
     return view('content.service_detail');
 });
 
-// Route::get('/detail_servico', function () {
-//     return view('pages.infra_estrutura');
-// });
+Route::get('/admin', function () {
+    return view('layout.admin');
+});
 
 
 

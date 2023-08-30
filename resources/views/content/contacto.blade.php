@@ -76,7 +76,7 @@ Ocorrencias
                                 </div>
 
                                 <div class="col-12">
-                                    <button class="form-btn" style="background-color: rgb(50, 50, 126)">Submeter</button>
+                                    <button class="form-btn" style="background-color: #245FA7">Submeter</button>
                                 </div>
                             </form>
                         </div>

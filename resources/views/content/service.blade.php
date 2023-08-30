@@ -234,34 +234,46 @@ Ocorrencias
                 <div class="col-lg-12">
                     <div class="brand-active owl-carousel">
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/brand-1.png"
+                            <a class="brand-front" href="#"><img src="assets/img/brand/duys.PNG"
                                     alt="Brand Logo"></a>
-                            <a class="brand-back" href="#"><img src="assets/img/brand/brand-1y.png"
-                                    alt="Brand Logo"></a>
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-1y.png"
+                                    alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/brand-2ys.png"
+                            <a class="brand-front" href="#"><img src="assets/img/brand/mrt.PNG"
                                     alt="Brand Logo"></a>
-                            <a class="brand-back" href="#"><img src="assets/img/brand/brand-2.png"
-                                    alt="Brand Logo"></a>
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-2.png"
+                                    alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/brand-3.png"
+                            <a class="brand-front" href="#"><img src="assets/img/brand/sgs.PNG"
                                     alt="Brand Logo"></a>
-                            <a class="brand-back" href="#"><img src="assets/img/brand/brand-3y.png"
-                                    alt="Brand Logo"></a>
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-3y.png"
+                                    alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/brand-4.png"
+                            <a class="brand-front" href="#"><img src="assets/img/brand/skil.PNG"
                                     alt="Brand Logo"></a>
-                            <a class="brand-back" href="#"><img src="assets/img/brand/brand-4y.png"
-                                    alt="Brand Logo"></a>
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-4y.png"
+                                    alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/brand-5.png"
+                            <a class="brand-front" href="#"><img src="assets/img/brand/tabloTech.PNG"
                                     alt="Brand Logo"></a>
-                            <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                                    alt="Brand Logo"></a> --}}
+                        </div>
+                        <div class="brand-item">
+                            <a class="brand-front" href="#"><img src="assets/img/brand/vesame.PNG"
                                     alt="Brand Logo"></a>
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                                    alt="Brand Logo"></a> --}}
+                        </div>
+                        <div class="brand-item">
+                            <a class="brand-front" href="#"><img src="assets/img/brand/vortal.PNG"
+                                    alt="Brand Logo"></a>
+                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                                    alt="Brand Logo"></a> --}}
                         </div>
                     </div>
                 </div>

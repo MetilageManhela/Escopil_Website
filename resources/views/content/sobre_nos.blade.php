@@ -51,8 +51,8 @@ Ocorrencias
                             when looking at its layout. The point using lorem ipsum has a more-or-less
                             normal distribution of letters.</p> --}}
                         <ul class="btn-list about-btn d-md-flex align-items-center">
-                            <li><a href="about.html" class="theme_btn2">Entrar em contato</a></li>
-                            <li><a href="about.html" class="theme_btn2 ml-20">Nossos Serviço</a></li>
+                            <li><a href="{{route('contacto.page')}}" class="theme_btn2">Entrar em contato</a></li>
+                            <li><a href="{{route('service.page')}}" class="theme_btn2 ml-20">Nossos Serviço</a></li>
                         </ul>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ Ocorrencias
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2>Visão</h2>
+                                <h2 style="color: #245FA7">Visão</h2>
                                 {{-- <h4>Company Foundation</h4> --}}
                                 <p><strong>Líderar na</strong> transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes.</p>
                             </div>
@@ -103,7 +103,7 @@ Ocorrencias
                         </div>
                         <div class="col-lg-6 ">
                             <div class="left-content mb-30">
-                                <h2>Missão</h2>
+                                <h2 style="color: #245FA7">Missão</h2>
                                 {{-- <h4>Construindo uma equipa sólida</h4> --}}
                                 <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                             </div>
@@ -114,7 +114,7 @@ Ocorrencias
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2>Valores</h2>
+                                <h2 style="color: #245FA7">Valores</h2>
                                 {{-- <h4>Company Foundation</h4>
                                 <p>The sontent provides fully integrated
                                     marketing services designed</p> --}}
@@ -230,19 +230,19 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center mb-55">
-                        <h6 class="semi-title mb-10">Team</h6>
-                        <h2 class="sect-title">Management Team</h2>
+                        <h6 class="semi-title mb-10">RECOMENDAÇÕES</h6>
+                        <h2 class="sect-title">RECOMENDAÇÕES</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="team-wrapper mb-30">
-                        <div class="team-thumb">
-                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/team-1.jpg"
+                        <div >
+                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/Capture.PNG"
                                     alt="Team Img"></a>
                         </div>
-                        <div class="team-content">
+                        {{-- <div class="team-content">
                             <h6>Founder</h6>
                             <h3><a href="team-details.html">Alonso D. Dowson</a></h3>
                             <div class="footer__social mt-30">
@@ -251,16 +251,16 @@ Ocorrencias
                                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 <a href="#"><i class="fab fa-google-plus-g"></i></a>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="team-wrapper mb-30">
-                        <div class="team-thumb">
-                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/team-2.jpg"
+                        <div >
+                            <a href="team-details.html"><img  class="img-fluid" src="assets/img/team/idra.PNG"
                                     alt="Team Img"></a>
                         </div>
-                        <div class="team-content">
+                        {{-- <div class="team-content">
                             <h6>CEO</h6>
                             <h3><a href="team-details.html">Rolinda D. Willin</a></h3>
                             <div class="footer__social mt-30">
@@ -269,16 +269,16 @@ Ocorrencias
                                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 <a href="#"><i class="fab fa-google-plus-g"></i></a>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="team-wrapper mb-30">
-                        <div class="team-thumb">
-                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/team-3.jpg"
+                        <div>
+                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/mct.PNG"
                                     alt="Team Img"></a>
                         </div>
-                        <div class="team-content">
+                        {{-- <div class="team-content">
                             <h6>CTO</h6>
                             <h3><a href="team-details.html">Piklonis D. Dowson</a></h3>
                             <div class="footer__social mt-30">
@@ -287,7 +287,61 @@ Ocorrencias
                                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 <a href="#"><i class="fab fa-google-plus-g"></i></a>
                             </div>
+                        </div> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-wrapper mb-30">
+                        <div>
+                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/Netcare.PNG"
+                                    alt="Team Img"></a>
                         </div>
+                        {{-- <div class="team-content">
+                            <h6>CTO</h6>
+                            <h3><a href="team-details.html">Piklonis D. Dowson</a></h3>
+                            <div class="footer__social mt-30">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                            </div>
+                        </div> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-wrapper mb-30">
+                        <div>
+                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/stae.PNG"
+                                    alt="Team Img"></a>
+                        </div>
+                        {{-- <div class="team-content">
+                            <h6>CTO</h6>
+                            <h3><a href="team-details.html">Piklonis D. Dowson</a></h3>
+                            <div class="footer__social mt-30">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                            </div>
+                        </div> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-wrapper mb-30">
+                        <div>
+                            <a href="team-details.html"><img class="img-fluid" src="assets/img/team/ugea.PNG"
+                                    alt="Team Img"></a>
+                        </div>
+                        {{-- <div class="team-content">
+                            <h6>CTO</h6>
+                            <h3><a href="team-details.html">Piklonis D. Dowson</a></h3>
+                            <div class="footer__social mt-30">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                            </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
