@@ -135,7 +135,7 @@ Ocorrencias
                         </div>
                     </div>
                 </li>
-                <li>
+                <!--<li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -219,7 +219,7 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li>
+                </li>-->
             </ul>
         </div>
     </section>
