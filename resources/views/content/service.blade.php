@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/servicos.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -16,9 +16,9 @@ Ocorrencias
                     <div class="page-title-wrapper pt-30 pt-lg-40 pt-md-10 pt-xs-10">
                         <ul class="breadcrumb">
                             <li><a href="#">Home /</a></li>
-                            <li class="active" aria-current="page">Nossos Serviços</li>
+                            <li class="active" aria-current="page">Serviços</li>
                         </ul>
-                        <h2 class="page-title">Nossos Trabalhos</h2>
+                        <h2 class="page-title">Nossos Serviços</h2>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv3.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon1.png" alt="Icon"> R&D</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> R&D</h5>
                             <p>Implementação de várias soluções inovadoras, potenciadas por parcerias com actores altamente experientes e qualificados...</p>
                             <a class="service-btn" href="{{route('rd.pages')}}">Mais Detalhes<i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -87,7 +87,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/erpnext.png" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon12.png" alt="Icon"> ERPNEXT</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon16.png" alt="Icon"> ERPNEXT</h5>
                             <p>Sistema de gestão RH, estoque, projetos e recursos de CRM, alem disso a plataforma oferece funcoes de contabilidaden, RH e folha de pagamento...</p>
                             <a class="service-btn" href="{{route('erpnext.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -100,7 +100,7 @@ Ocorrencias
                             <img class="img-fluid" src="assets/img/services/serv6.jpg" alt="Services Img">
                         </div>
                         <div class="services__content text-center">
-                            <h5 class="service-text"><img src="assets/img/icon/s-icon11.png" alt="Icon"> Análise de Sistemas</h5>
+                            <h5 class="service-text"><img src="assets/img/icon/s-icon17.png" alt="Icon"> Análise de Sistemas</h5>
                             <p>Desenvolvemos soluções para as empresas por meio de sistemas informatizados para empresas. Fazemos o trabalho de analise, documentacao...</p>
                             <a class="service-btn" href="{{route('analise_sistema.pages')}}">Mais Detalhes <i
                                     class="fal fa-long-arrow-right"></i></a>
@@ -111,7 +111,7 @@ Ocorrencias
         </div>
     </section>
     <!--services-area end-->
-    <!--feature-area start-->
+    <!--feature-area start
     {{-- <section class="feature-area">
         <div class="service-feature-bg">
             <div class="container">
@@ -143,8 +143,8 @@ Ocorrencias
             </div>
         </div>
     </section> --}}
-    <!--feature-area end-->
-    <!--plan-area start-->
+    feature-area end-->
+    <!--plan-area start
     {{-- <section class="plan-area service-plan-bg pb-90 pb-md-30 pb-xs-30">
         <div class="container">
             <div class="row">
@@ -221,7 +221,7 @@ Ocorrencias
             </div>
         </div>
     </section> --}}
-    <!--plan-area end-->
+    plan-area end-->
     <!--brand-area start-->
     <section class="brand-area pt-120 pb-120 pt-md-60 pb-md-60 pb-xs-60 pt-xs-60">
         <div class="container">
@@ -234,50 +234,50 @@ Ocorrencias
                 <div class="col-lg-12">
                     <div class="brand-active owl-carousel">
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/duys.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/tabloTech.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-1y.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-1y.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/mrt.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/duys.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-2.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-2.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/sgs.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/mrt.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-3y.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-3y.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/skil.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/sgs.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-4y.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-4y.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/tabloTech.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/skil.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/vesame.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vesame.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                         <div class="brand-item">
-                            <a class="brand-front" href="#"><img src="assets/img/brand/vortal.PNG"
+                            <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vortal.PNG')}}"
                                     alt="Brand Logo"></a>
-                            {{-- <a class="brand-back" href="#"><img src="assets/img/brand/brand-5y.png"
+                            {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
                                     alt="Brand Logo"></a> --}}
                         </div>
                     </div>
                 </div>
-            </div>
+        </div>
         </div>
     </section>
     <!--brand-area end-->
