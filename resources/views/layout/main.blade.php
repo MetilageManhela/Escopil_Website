@@ -31,7 +31,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/slide1.jpg" alt="Hero Img">
+                                <img class="img-fluid" src="assets/img/slider/slide1.png" alt="Hero Img">
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ Ocorrencias
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
                               
-                                <img class="img-fluid" src="{{ asset('assets/img/slider/slide2.jpg') }}" alt="Hero Img">
+                                <img class="img-fluid" src="{{ asset('assets/img/slider/slide2.png') }}" alt="Hero Img">
 
                             </div>
                         </div>
@@ -90,7 +90,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/slide3.jpg" alt="Hero Img">  
+                                <img class="img-fluid" src="assets/img/slider/slide3.png" alt="Hero Img">  
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@ Ocorrencias
     </div>
 </div>
 <!--slider-area end-->
-<!--feature-area start
+<!--feature-area start-->
 <section class="feature-area pb-30">
     <div class="container-fluid px-0">
         <div class="row gx-0">
@@ -131,7 +131,7 @@ Ocorrencias
         </div>
     </div>
 </section>
-feature-area end-->
+<!--feature-area end-->
 <!--about-us-area start-->
 <section class="about-us-area pt-90 pb-90 pb-md-25 pt-xs-50 pb-xs-30">
     <div class="container">
@@ -311,7 +311,7 @@ feature-area end-->
     </div>
 </section>
 <!--brand-area end-->
-<!--faq-area start
+<!--faq-area start -->
 <section class="faq-area pt-60 pb-90 pt-md-50 pb-md-30 pt-xs-50 pb-xs-30">
     <div class="container">
         <div class="row">
@@ -398,7 +398,7 @@ feature-area end-->
         </div>
     </div>
 </section>
-faq-area end-->
+<!-- faq-area end-->
 <!--portfolio-area start-->
 <section class="grey-bg2 portfolio-area portfolio-nav pt-120 pb-120 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
     <div class="container">

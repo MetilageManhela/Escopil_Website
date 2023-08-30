@@ -119,7 +119,7 @@ Ocorrencias
                                 <h2>Valores</h2>
                                 {{-- <h4>Company Foundation</h4>
                                 <p>The sontent provides fully integrated
-                                    marketing services designed</p> --}} -->
+                                    marketing services designed</p> --}}
                                
                                     <p>Cultura de inovação;</p>
                                     <p>Priorização do cliente;</p>
@@ -135,7 +135,7 @@ Ocorrencias
                         </div>
                     </div>
                 </li>
-                <!--{{-- <li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -151,8 +151,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
@@ -168,8 +168,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -185,8 +185,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
@@ -202,8 +202,8 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -219,7 +219,7 @@ Ocorrencias
                             </div>
                         </div>
                     </div>
-                </li> --}}-->
+                </li>
             </ul>
         </div>
     </section>

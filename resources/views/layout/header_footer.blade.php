@@ -78,7 +78,7 @@
 				<div class="row pt-25">
 					<div class="col-xl-4 col-lg-3 d-none d-lg-inline-block">
 						<div class="logo-area">
-							<a class="head-logo-1" href="/"><img src="assets/img/logo/logo1.png" style="height: 80px"
+							<a class="head-logo-1" href="/"><img src="assets/img/logo/ESCOPIL-11.png" style="height: 80px"
 									alt="Header-logo"></a>
 						</div>
 					</div>
