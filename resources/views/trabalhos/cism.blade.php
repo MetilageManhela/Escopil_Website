@@ -138,24 +138,41 @@ Ocorrencias
                         <div class="widget widget-categories mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 {{-- <h6 class="widget-sub-title mb-10">Category</h6> --}}
-                                <h4 class="widget-sub-title2">Tipo de Serviços</h4>
+                                <h4 class="widget-sub-title2">Trabalhos</h4>
                             </div>
                             <ul class="list-none">
-                                <li><a href="{{route('infra_estrutura.pages')}}"> Infra-Estrutura <span class="f-right"><i
-                                                class="fal fa-long-arrow-right"></i></span></a></li>
-                                {{-- <li><a href="{{route('seguranca.pages')}}">Segurança <span class="f-right"><i
+                                {{-- <li><a href="{{route('infra_estrutura.pages')}}"> 
+                                    CMAM – Central de Medicamentos<span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li> --}}
-                                <li><a href="{{route('rd.pages')}}">R&D <span class="f-right"><i
+                                {{-- <li><a href="{{route('seguranca.pages')}}">Segurança <span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li> --}} 
+                                <li><a href="{{route('trabalhos.counterpart')}}">Counterpart International<span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="{{route('gestao_projecto.pages')}}">Gestão de Projectos<span class="f-right"><i
+                                <li><a href="{{route('trabalhos.cmam')}}">CMAM-JSI Research & Training<span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="{{route('gestao_projecto.pages')}}">ERPNEXT <span class="f-right"><i
+                                <li><a href="{{route('trabalhos.revimo')}}">Revimo <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="{{route('erpnext.pages')}}">Análise de Sistemas <span class="f-right"><i
+                                <li><a href="{{route('trabalhos.cism')}}">CISM<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                <li><a href="{{route('trabalhos.autoridadeTributaria')}}">Autoridade Tributária<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                <li><a href="{{route('trabalhos.ministerio')}}">Ministério da Ciência e Tecnologia<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                {{-- <li><a href="{{route('trabalhos.pages')}}">SOS – Netcare Assistance Services <span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li> --}}
+                                <li><a href="{{route('trabalhos.inav')}}">Instituto Nacional de Viação (INAV)<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                <li><a href="{{route('trabalhos.edm')}}">EDM – Electricidade de Moçambique<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                <li><a href="{{route('trabalhos.mozaBanco')}}">Moza Banco<span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                <li><a href="{{route('trabalhos.stae')}}">STAE <span class="f-right"><i
+                                                class="fal fa-long-arrow-right"></i></span></a></li>
+                                <li><a href="{{route('trabalhos.centralMedicamento')}}">CMAM – Central de Medicamentos<span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
                             </ul>
                         </div>
-                        <div class="widget widget-subscribe mb-40">
+                        {{-- <div class="widget widget-subscribe mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h6 class="widget-sub-title mb-10">Contacto</h6>
                                 <h4 class="widget-sub-title2">Entre em contato</h4>
@@ -187,7 +204,7 @@ Ocorrencias
                                     <button class="form-btn" style="background-color: #245FA7">Submeter</button>
                                 </div>
                             </form>
-                        </div>
+                        </div> --}}
                         {{-- <div class="widget widget-banner-add">
                             <div class="banner-content">
                                 <a class="banner-logo" href="index.html"><img src="assets/img/logo/logo-2.png"

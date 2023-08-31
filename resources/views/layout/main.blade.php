@@ -253,63 +253,7 @@ Ocorrencias
 </section>
 <!--services-area end-->
 <!--brand-area start-->
-<section class="brand-area pb-60 pb-md-10 pb-xs-10">
-    <div class="container border-line pb-60">
-        <div class="row">
-            <div class="col-12 brand-title mb-60">
-                <h5 class="border-bg">Nossos Parceiros</h5>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="brand-active owl-carousel">
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/tabloTech.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-1y.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/duys.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-2.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/mrt.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-3y.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/sgs.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-4y.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/skil.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vesame.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                    <div class="brand-item">
-                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vortal.PNG')}}"
-                                alt="Brand Logo"></a>
-                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
-                                alt="Brand Logo"></a> --}}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!--brand-area end-->
 <!--faq-area start -->
 <section class="faq-area pt-60 pb-90 pt-md-50 pb-md-30 pt-xs-50 pb-xs-30">
@@ -611,6 +555,65 @@ Ocorrencias
                     </div>
                     <h5><a class="blog-title" href="blog-details.html">Projetando interfaces homem-máquina para
                         Veículos do Futuro</a></h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="brand-area pb-60 pb-md-10 pb-xs-10">
+    <div class="container border-line pb-60">
+        <div class="row">
+            <div class="col-12 brand-title mb-60">
+                <h5 class="border-bg">Nossos Parceiros</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="brand-active owl-carousel">
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/tabloTech.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-1y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/duys.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-2.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/mrt.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-3y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/sgs.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-4y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/skil.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vesame.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
+                    <div class="brand-item">
+                        <a class="brand-front" href="#"><img src="{{asset('assets/img/brand/vortal.PNG')}}"
+                                alt="Brand Logo"></a>
+                        {{-- <a class="brand-back" href="#"><img src="{{asset('assets/img/brand/brand-5y.png')}}"
+                                alt="Brand Logo"></a> --}}
+                    </div>
                 </div>
             </div>
         </div>

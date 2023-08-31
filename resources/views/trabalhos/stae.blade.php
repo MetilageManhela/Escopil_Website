@@ -30,9 +30,9 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio-1.jpg" alt="Service Img">
-                        <h3 class="s-sub-title mt-55 mb-20"> Ministério da Ciência e Tecnologia</h3>
-                        <p class="mb-30">Desenvolvemos o portal e a biblioteca de informação digital, incluindo a integração e a partilha de informação e comunicação entre os vários Ministérios</p>
+                        <img class="img-fluid" src="assets/img/portfolio/portfolio-2.png" alt="Service Img">
+                        <h3 class="s-sub-title mt-55 mb-20">STAE</h3>
+                        <p class="mb-30">Integrámos a instalação móvel de um sistema digital de registo de eleitores. Prestámos apoio na configuração dos ID Mobiles aos níveis central, regional e distrital.</p>
                         {{-- <ul>
                             <li>Videovigilância, cercas eléctricas e contra intrusão</li>
                             <li>Análise de dados de videovigilância</li>

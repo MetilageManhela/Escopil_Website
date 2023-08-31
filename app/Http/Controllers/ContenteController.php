@@ -71,7 +71,26 @@ class ContenteController extends Controller
     public function revimo(){
         return view('trabalhos.revimo');
     }
+
+    public function counterpart(){
+        return view('trabalhos.counterpart');
+    }
     
+    public function stae(){
+        return view('trabalhos.stae');
+    }
+
+    public function edm(){
+        return view('trabalhos.edm');
+    }
+
+    public function mozaBanco(){
+        return view('trabalhos.mozaBanco');
+    }
+
+    public function centralMedicamento(){
+        return view('trabalhos.centralMedicamento');
+    }
     
 }
 
