@@ -311,7 +311,7 @@ Ocorrencias
     </div>
 </section>
 <!--brand-area end-->
-<!--faq-area start -->
+<!--faq-area start 
 <section class="faq-area pt-60 pb-90 pt-md-50 pb-md-30 pt-xs-50 pb-xs-30">
     <div class="container">
         <div class="row">
@@ -398,7 +398,7 @@ Ocorrencias
         </div>
     </div>
 </section>
-<!-- faq-area end-->
+ faq-area end-->
 <!--portfolio-area start-->
 <section class="grey-bg2 portfolio-area portfolio-nav pt-120 pb-120 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
     <div class="container">
@@ -426,7 +426,7 @@ Ocorrencias
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <h5>CMAM-JSI Research & Training Institute, Inc. (JSI)</h5>
+                        <h5>JSI Research & Training Institute, Inc. (JSI)</h5>
                         <p>Provisão de serviços de Migração de Ambientes da Ferramenta Central...
 
                         </p>
@@ -476,7 +476,7 @@ Ocorrencias
             <div class="item">
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
-                        <h5>Revimo– Rede Viária de Moçambique, S.A</h5>
+                        <h5>Revimo – Rede Viária de Moçambique, S.A</h5>
                         <p>Instalação da infraestrutura de rede & manutenção da infraestrutura de TIC ...</p>
                         
                         <img src="{{asset('assets/img/portfolio/portfolio6.jpg')}}" alt="Portfolio Img">
@@ -485,6 +485,68 @@ Ocorrencias
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
+            <div class="item">
+                <div class="portfolio-wrapper mb-30">
+                    <div class="single-portfolio white-bg">
+                        <h5>STAE</h5>
+                        <p>....</p>
+                        
+                        <img src="{{asset('assets/img/portfolio/portfolio7.jpg')}}" alt="Portfolio Img">
+                    </div>
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                            class="fal fa-long-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="item">
+                <div class="portfolio-wrapper mb-30">
+                    <div class="single-portfolio white-bg">
+                        <h5>MOZA Banco</h5>
+                        <p>....</p>
+                        
+                        <img src="{{asset('assets/img/portfolio/portfolio8.jpg')}}" alt="Portfolio Img">
+                    </div>
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                            class="fal fa-long-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="item">
+                <div class="portfolio-wrapper mb-30">
+                    <div class="single-portfolio white-bg">
+                        <h5>Counterpart International</h5>
+                        <p>....</p>
+                        
+                        <img src="{{asset('assets/img/portfolio/portfolio9.jpg')}}" alt="Portfolio Img">
+                    </div>
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                            class="fal fa-long-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="item">
+                <div class="portfolio-wrapper mb-30">
+                    <div class="single-portfolio white-bg">
+                        <h5>CMAM</h5>
+                        <p>....</p>
+                        
+                        <img src="{{asset('assets/img/portfolio/portfolio10.png')}}" alt="Portfolio Img">
+                    </div>
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                            class="fal fa-long-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="item">
+                <div class="portfolio-wrapper mb-30">
+                    <div class="single-portfolio white-bg">
+                        <h5>EDM</h5>
+                        <p>....</p>
+                        
+                        <img src="{{asset('assets/img/portfolio/portfolio11.jpg')}}" alt="Portfolio Img">
+                    </div>
+                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                            class="fal fa-long-arrow-right"></i></a>
+                </div>
+            </div>
+            
+
         </div>
     </div>
 </section>
