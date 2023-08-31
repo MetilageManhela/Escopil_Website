@@ -30,9 +30,9 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/CISM.jpg" alt="Service Img">
-                        <h3 class="s-sub-title mt-55 mb-20">CISM– Centro de investigação de Saúde de Manhiça</h3>
-                        <p class="mb-30">Concepção, desenvolvimento e Implementação de um Sistema de gestão de pesquisa & assistência técnica.</p>
+                        <img class="img-fluid" src="assets/img/portfolio/portfolio-2.png" alt="Service Img">
+                        <h3 class="s-sub-title mt-55 mb-20">CMAM – Central de Medicamentos e Artigos Médicos</h3>
+                        <p class="mb-30">Implementámos um Sistema de Segurança Corporate nos servidores e nos postos de trabalho em rede. Fizemos a monitoria de pontos vulneráveis nos sistemas internos. Colocámos a infra-estrutura em funcionamento e assumimos a sua manutenção. Demos aconselhamento em matéria de infra-estruturas.</p>
                         {{-- <ul>
                             <li>Videovigilância, cercas eléctricas e contra intrusão</li>
                             <li>Análise de dados de videovigilância</li>
