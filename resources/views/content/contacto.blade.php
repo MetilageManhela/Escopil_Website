@@ -8,7 +8,7 @@ Contacto
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/pexels-kindel-media-6774143.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/contacto.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -16,9 +16,9 @@ Contacto
                     <div class="page-title-wrapper pt-30 pt-lg-40 pt-md-10 pt-xs-10">
                         <ul class="breadcrumb">
                             <li><a href="index.html">Home /</a></li>
-                            <li class="active" aria-current="page">Contact</li>
+                            <li class="active" aria-current="page">Contacto</li>
                         </ul>
-                        <h2 class="page-title">Get In Touch</h2>
+                        <h2 class="page-title">Entre em Contacto</h2>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@ Contacto
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-input-wrapper mb-30">
                             <div class="section-title mb-25">
-                                <h6 class="semi-title mb-10">Make Custom Request</h6>
+                                <h6 class="semi-title mb-10">Faça solicitação personalizada</h6>
                                 <h2 class="sect-title mb-35">Fale nos sobre os seus projectos</h2>
                             </div>
                             <form class="row contact-form" action="{{route('contacto.gravar')}}" method="POST">
@@ -62,7 +62,7 @@ Contacto
                                 {{-- <div class="col-lg-6 col-md-6 mb-20">
                                     <div class="input-box sub-input">
                                         <select name="job" class="job-select">
-                                            <option value="Subject">Subject</option>
+                                            <option value="Subject">Assunto</option>
                                             <option value="">It</option>
                                             <option value="">Development</option>
                                             <option value="">Ui/Ux</option>
@@ -87,7 +87,7 @@ Contacto
             <div class="row align-items-center justify-content-center pt-120 pt-md-60 pt-xs-60">
                 <div class="col-xl-8">
                     <div class="section-title text-center mb-55">
-                        <h6 class="semi-title mb-10">Catch Us Here</h6>
+                        <h6 class="semi-title mb-10">Encontre-nos aqui</h6>
                         <h2 class="sect-title">Informação de Contacto</h2>
                         <p >Alcance nossa equipe de especialistas</p>
                        <p> Envie uma mensagem através do formulário fornecido. Se sua pergunta for urgente, use os detalhes de contato abaixo.</p>
@@ -97,7 +97,7 @@ Contacto
             <div class="row pb-90 pb-md-30 pb-xs-30">
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">Endereço postal</h5>
+                        <h5 class="fs-20 mb-20">Endereço Postal</h5>
                         <p>Maputo - Mozambique</p>
                         <p>Av. Ahmed S. Toure 406/RC</p>
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
@@ -106,15 +106,15 @@ Contacto
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-box mb-30">
                         <h5 class="fs-20 mb-20">Contactos</h5>
-                        <p>Phone: +258 84 314 7940 & +258 21 492 725</p>
-                        <p>Email: comercial.tec@escopil.co.mz</p>
+                        <p>Tel.: +258 84 314 7940 & +258 21 492 725</p>
+                        <p>E-mail: comercial.tec@escopil.co.mz</p>
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
                     <div class="contact-box mb-30">
-                        <h5 class="fs-20 mb-20">horas de funcionamento</h5>
-                        <p>monday - friday: 08:00 to 17.00</p>
+                        <h5 class="fs-20 mb-20">Horas de Funcionamento</h5>
+                        <p>Segunda - Sexta: 08:00 às 17:00</p>
                         {{-- <p>Av. Ahmed S. Toure 406/RC</p> --}}
                         <a href="#" class="theme_btn mt-35"> <i class="fal fa-long-arrow-right"></i></a>
                     </div>

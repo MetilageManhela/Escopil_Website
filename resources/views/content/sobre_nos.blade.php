@@ -9,7 +9,7 @@ Sobre Nos
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/pexels-kindel-media-6774143.jpg);">
+    <section class="page-title-area" style="background-image: url(assets/img/page-title/sobrenos.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -82,7 +82,7 @@ Sobre Nos
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2 style="color: #245FA7">Visão</h2>
+                                <h2>Visão</h2>
                                 {{-- <h4>Company Foundation</h4> --}}
                                 <p><strong>Líderar na</strong> transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes.</p>
                             </div>
@@ -94,6 +94,7 @@ Sobre Nos
                         </div>
                     </div>
                 </li>
+                
                 <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
@@ -103,18 +104,19 @@ Sobre Nos
                         </div>
                         <div class="col-lg-6 ">
                             <div class="left-content mb-30">
-                                <h2 style="color: #245FA7">Missão</h2>
+                                <h2>Missão</h2>
                                 {{-- <h4>Construindo uma equipa sólida</h4> --}}
                                 <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                             </div>
                         </div>
                     </div>
                 </li>
+                
                 <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2 style="color: #245FA7">Valores</h2>
+                                <h2>Valores</h2>
                                 {{-- <h4>Company Foundation</h4>
                                 <p>The sontent provides fully integrated
                                     marketing services designed</p> --}}
@@ -123,9 +125,7 @@ Sobre Nos
                                     <p>Priorização do cliente;</p>
                                     <p>Aposta na Tecnologia como serviço para uma sociedade melhor;</p>
                                     <p>Responsabilidade social; </p>
-                                    <p>Conduta ética em todas as acções</p>
-                                   
-                                
+                                    <p>Conduta ética em todas as acções</p>                                
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -135,7 +135,7 @@ Sobre Nos
                         </div>
                     </div>
                 </li>
-                {{-- <li>
+                <!--<li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -151,8 +151,8 @@ Sobre Nos
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
@@ -168,8 +168,8 @@ Sobre Nos
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -185,8 +185,8 @@ Sobre Nos
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
@@ -202,8 +202,8 @@ Sobre Nos
                             </div>
                         </div>
                     </div>
-                </li> --}}
-                {{-- <li>
+                </li>
+                <li>
                     <div class="row timeline-box">
                         <div class="col-lg-6 order-last order-md-first">
                             <div class="right-content mb-30">
@@ -219,7 +219,7 @@ Sobre Nos
                             </div>
                         </div>
                     </div>
-                </li> --}}
+                </li>-->
             </ul>
         </div>
     </section>
