@@ -419,7 +419,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio-1.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.ministerio')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -433,7 +433,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio-2.png')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.cmam')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -445,7 +445,7 @@ Ocorrencias
                        
                         <img src="{{asset('assets/img/portfolio/portfolio-3.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.autoridadeTributaria')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -457,7 +457,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio-4.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.cism')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -469,7 +469,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio5.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.inav')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -481,7 +481,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio6.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.revimo')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>

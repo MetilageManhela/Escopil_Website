@@ -48,6 +48,30 @@ class ContenteController extends Controller
     public function infraEstrutura(){
         return view('pages.infra_estrutura');
     }
+
+    public function cism(){
+        return view('trabalhos.cism');
+    }
+    public function autoridadeTributaria(){
+        return view('trabalhos.autoridadeTributaria');
+    }
+
+    public function cmam(){
+        return view('trabalhos.cmam');
+    }
+
+    public function inav(){
+        return view('trabalhos.inav');
+    }
+
+    public function ministerio(){
+        return view('trabalhos.ministerio');
+    }
+
+    public function revimo(){
+        return view('trabalhos.revimo');
+    }
+    
     
 }
 

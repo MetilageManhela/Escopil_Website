@@ -1,7 +1,7 @@
 @extends("layout.header_footer")
 
 @section('titulo')
-Ocorrencias
+Contacto
 @endsection
 
 @section('conteudo')
@@ -42,23 +42,24 @@ Ocorrencias
                                 <h6 class="semi-title mb-10">Faça solicitação personalizada</h6>
                                 <h2 class="sect-title mb-35">Fale nos sobre os seus projectos</h2>
                             </div>
-                            <form class="row contact-form" action="#">
+                            <form class="row contact-form" action="{{route('contacto.gravar')}}" method="POST">
+                                @csrf
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mb-20">
-                                        <input type="text" placeholder="Nome Completo">
+                                        <input name="nome" type="text" placeholder="Full name">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mail-input mb-20">
-                                        <input type="text" placeholder="Endereço de E-mail">
+                                        <input name="email" type="text" placeholder="Email address">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
-                                    <div class="input-box bud-input mb-20">
-                                        <input type="text" placeholder="Orçamento">
+                                    <div class="input-box mail-input mb-20">
+                                        <input name="assunto" type="text" placeholder="Assunto">
                                     </div>
                                 </div>
-                                <div class="col-lg-6 col-md-6 mb-20">
+                                {{-- <div class="col-lg-6 col-md-6 mb-20">
                                     <div class="input-box sub-input">
                                         <select name="job" class="job-select">
                                             <option value="Subject">Assunto</option>
@@ -67,11 +68,11 @@ Ocorrencias
                                             <option value="">Ui/Ux</option>
                                         </select>
                                     </div>
-                                </div>
+                                </div> --}}
                                 <div class="col-12">
                                     <div class="input-box text-input mb-30">
-                                        <textarea name="message" cols="30" rows="10"
-                                            placeholder="Escreva-nos"></textarea>
+                                        <textarea name="mensagem" cols="30" rows="10"
+                                            placeholder="Enter massge"></textarea>
                                     </div>
                                 </div>
 
