@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio5.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/INATTER.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">Instituto Nacional de Viação (INAV)</h3>
                         <p class="mb-30">Desenhámos um sistema de registo de veículos e automatização das cartas de condução. Instalámos a infra-estrutura de tecnologias de informação em todos os escritórios regionais.</p>
                         {{-- <ul>

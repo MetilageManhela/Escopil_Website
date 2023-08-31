@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio6.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/Revimo.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">Revimo– Rede Viária de Moçambique, S.A</h3>
                         <p class="mb-30">Instalação da infraestrutura de rede & manutenção da infraestrutura de TIC nas PORTAGENS Matola gare, Cumbeza, Costa de sol e Zintava.</p>
                         {{-- <ul>

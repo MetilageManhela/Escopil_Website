@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio-1.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/MinisterioCiencia.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20"> Ministério da Ciência e Tecnologia</h3>
                         <p class="mb-30">Desenvolvemos o portal e a biblioteca de informação digital, incluindo a integração e a partilha de informação e comunicação entre os vários Ministérios</p>
                         {{-- <ul>

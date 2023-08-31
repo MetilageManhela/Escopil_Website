@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio-3.jpg" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/autoridade_tributaria.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">Autoridade Tributária – Ministério das Finanças</h3>
                         <p class="mb-30">Concessão para desenvolver, conceber, implementar e operar o Sistema de Janela Única Electrónica para os processos de desalfandegamento em todo o país, com base na tecnologia Crimson Logic.</p>
                         {{-- <ul>
