@@ -1,7 +1,7 @@
 @extends("layout.header_footer")
 
 @section('titulo')
-Ocorrencias
+Sobre Nos
 @endsection
 
 @section('conteudo')
