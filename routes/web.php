@@ -28,7 +28,7 @@ Route::get('/analise_sistema', [ContenteController::class, 'analiseSistemas'])->
 
 Route::get('/cism', [ContenteController::class, 'cism'])->name('trabalhos.cism');
 Route::get('/autoridadeTributaria', [ContenteController::class, 'autoridadeTributaria'])->name('trabalhos.autoridadeTributaria');
-Route::get('/cmam', [ContenteController::class, 'cmam'])->name('trabalhos.cmam');
+Route::get('/jsh', [ContenteController::class, 'jsh'])->name('trabalhos.jsh');
 Route::get('/inav', [ContenteController::class, 'inav'])->name('trabalhos.inav');
 Route::get('/ministerio', [ContenteController::class, 'ministerio'])->name('trabalhos.ministerio');
 Route::get('/revimo', [ContenteController::class, 'revimo'])->name('trabalhos.revimo');

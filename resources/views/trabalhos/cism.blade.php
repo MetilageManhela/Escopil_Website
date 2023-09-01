@@ -148,7 +148,7 @@ Ocorrencias
                                                 class="fal fa-long-arrow-right"></i></span></a></li> --}} 
                                 <li><a href="{{route('trabalhos.counterpart')}}">Counterpart International<span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
-                                <li><a href="{{route('trabalhos.cmam')}}">CMAM-JSI Research & Training<span class="f-right"><i
+                                <li><a href="{{route('trabalhos.jsh')}}">CMAM-JSI Research & Training<span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>
                                 <li><a href="{{route('trabalhos.revimo')}}">Revimo <span class="f-right"><i
                                                 class="fal fa-long-arrow-right"></i></span></a></li>

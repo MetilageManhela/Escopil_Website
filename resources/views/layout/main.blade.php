@@ -377,7 +377,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio-2.png')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="{{route('trabalhos.cmam')}}">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.jsh')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>

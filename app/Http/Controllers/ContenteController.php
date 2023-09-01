@@ -56,8 +56,8 @@ class ContenteController extends Controller
         return view('trabalhos.autoridadeTributaria');
     }
 
-    public function cmam(){
-        return view('trabalhos.cmam');
+    public function jsh(){
+        return view('trabalhos.jsh');
     }
 
     public function inav(){
