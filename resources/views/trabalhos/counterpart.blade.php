@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio-2.png" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/counterpart.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">Counterpart International</h3>
                         <p class="mb-30">Fornecimento de serviço de IT Help Desk e Instalação de Rede</p>
                         {{-- <ul>

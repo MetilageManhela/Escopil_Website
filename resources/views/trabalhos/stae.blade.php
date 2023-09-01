@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio-2.png" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/STAE.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">STAE</h3>
                         <p class="mb-30">Integrámos a instalação móvel de um sistema digital de registo de eleitores. Prestámos apoio na configuração dos ID Mobiles aos níveis central, regional e distrital.</p>
                         {{-- <ul>

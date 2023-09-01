@@ -30,7 +30,7 @@ Ocorrencias
             <div class="row">
                 <div class="col-lg-8">
                     <div class="services-left mb-30">
-                        <img class="img-fluid" src="assets/img/portfolio/portfolio-2.png" alt="Service Img">
+                        <img class="img-fluid" src="assets/img/portfolio/EDM.jpg" alt="Service Img">
                         <h3 class="s-sub-title mt-55 mb-20">EDM – Electricidade de Moçambique – SIGEM</h3>
                         <p class="mb-30">Implementámos o Sistema de Apoio Operacional e Comercial (CRM), ao qual prestamos apoio até à data.</p>
                         {{-- <ul>
