@@ -286,7 +286,7 @@
 		</div>
 		<!-- offset-sidebar start -->
 		<div class="offset-sidebar">
-			<div class="offset-widget offset-logo mb-30">
+			<div style="background-color: white" class="offset-widget offset-logo mb-30">
 				<a href="index.html">
 					<img src="{{asset('assets/img/logo/footer-logo1.png')}}" alt="logo">
 				</a>

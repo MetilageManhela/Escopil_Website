@@ -437,7 +437,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio7.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.stae')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -449,7 +449,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio8.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.mozaBanco')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -461,7 +461,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio9.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.counterpart')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -473,7 +473,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio10.png')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.centralMedicamento')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -485,7 +485,7 @@ Ocorrencias
                         
                         <img src="{{asset('assets/img/portfolio/portfolio11.jpg')}}" alt="Portfolio Img">
                     </div>
-                    <a class="read-btn" href="portfolio-details.html">Ler Mais<i
+                    <a class="read-btn" href="{{route('trabalhos.edm')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
