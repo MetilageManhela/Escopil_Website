@@ -49,8 +49,9 @@
 				<div class="row align-items-center" >
 					<div class="col-md-6 col-6" >
 						<div class="left-cta">
-							<span style="color: #245FA7"><i class="fal fa-envelope"></i> info@webmail.com</span>
-							<span style="color: #245FA7"><i class="fal fa-phone"></i> +258 XX XX XXX</span>
+							<span style="color: #245FA7"><i class="fal fa-envelope"></i> comercial.tec@escopil.co.mz</span>
+							<span style="color: #245FA7"><i class="fal fa-phone"></i> +258 21 492 725 && +258 84 314 7940
+							</span>
 						</div>
 					</div>
 					<div class="col-md-6 col-6 text-end">
@@ -198,10 +199,10 @@
 													<li>
 														<a class="dropdown-item" href="{{route('service.page')}}">Todos</a>
 													</li>
-													<li>
+													{{-- <li>
 														<a class="dropdown-item" href="services-details.html">Detalhes dos
 															Serviços</a>
-													</li>
+													</li> --}}
 												</ul>
 											</li>
 											<li class="nav-item dropdown">
@@ -295,19 +296,17 @@
 				<div class="info-widget">
 					<h4 class="offset-title mb-20">Sobre Nós</h4>
 					<p class="mb-30">
-						But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain
-						was born and will give you a complete account of the system and expound the actual teachings of
-						the great explore
+						Escopil Tecnologia afirma-se, com orgulho, como empresa moçambicana a trabalhar para o mercado moçambicano desde 1998, sendo hoje uma referência no mercado das Tecnologias de Comunicação e Informação.
 					</p>
-					<a class="theme_btn theme_btn_bg" href="contact.html">Entra em Contacto</a>
+					<a class="theme_btn theme_btn_bg" href="{{route('contacto.page')}}">Entra em Contacto</a>
 				</div>
 			</div>
 			<div class="offset-widget mb-30 pr-10">
 				<div class="info-widget info-widget2">
 					<h4 class="offset-title mb-20">Info Contacto</h4>
 					<p> <i class="fal fa-address-book"></i> 406/RC, Av. Ahmed S. Toure, Maputo</p>
-					<p> <i class="fal fa-phone"></i> +258 XX XX XX XXX</p>
-					<p> <i class="fal fa-envelope-open"></i> info@example.com </p>
+					<p> <i class="fal fa-phone"></i> +258 21 492 725 || +258 84 314 7940</p>
+					<p> <i class="fal fa-envelope-open"></i> comercial.tec@escopil.co.mz</p>
 				</div>
 			</div>
 		</div>
@@ -424,9 +423,10 @@
 					<div class="footer__widget mb-25 pl-25 pl-md-0 pl-xs-0">
 						<h6 class="widget-title text-white pb-20 mb-35">Entre em Contacto</h6>
 						<ul class="fot-list fot-list-1">
-							<li><a href="#">(+258) xx xx xx xxx</a></li>
-							<li><a href="#">support@example.com</a></li>
-							<li><a href="#">Horário: <span style="color: aliceblue">08h - 17h</span></a>
+							<li><a href="#">(+258) 849250566  (+258)21492725</a></li>
+							<li><a href="https://web.facebook.com/Escopil407?_rdc=1&_rdr">Facebook</a></li>
+							<li><a href="https://www.linkedin.com/company/escopil-tecnologia/">Linkedin</a></li>
+							{{-- <li><a href="https://web.facebook.com/?locale=pt_BR&_rdc=1&_rdr">Horário: <span style="color: aliceblue">08h - 17h</span></a> --}}
 							</li>
 							<li>
 								<a href="#">406/RC, Av. Ahmed S. Toure, Maputo, MZ </a>

@@ -4054,7 +4054,7 @@ Copyright (c) 2015 Daniel Eden
     height: 0;
     position: absolute;
     left: 50%;
-    background: #ffa84b;
+    background: #245FA7;
     border-radius: 30px;
 }
 .reacttimeline ul li {
@@ -4101,7 +4101,7 @@ Copyright (c) 2015 Daniel Eden
 	color: #ededed;
 }
 .journey-list li.in-view .timeline-box .left-content h2{
-	color: #ffa84b;
+	color: #245FA7;
 }
 .journey-list li:nth-child(even){
 	padding-left: 65px !important;
