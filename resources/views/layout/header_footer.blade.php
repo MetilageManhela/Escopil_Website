@@ -482,7 +482,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-12">
 						<div class="copyright mb-30 text-center">
-							<h6>Copyright & Design By <a href="index.html">@ReacThemes</a> - 2023</h6>
+							<h6>Copyright & Design By <a href="index.html"> Escopil Tecnologia</a> - 2023</h6>
 						</div>
 					</div>
 				</div>
