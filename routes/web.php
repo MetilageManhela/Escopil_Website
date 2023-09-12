@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContenteController;
 use App\Http\Controllers\ContactoController;
+use App\Http\Controllers\BlogController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -38,8 +39,11 @@ Route::get('/edm', [ContenteController::class, 'edm'])->name('trabalhos.edm');
 Route::get('/mozaBanco', [ContenteController::class, 'mozaBanco'])->name('trabalhos.mozaBanco');
 Route::get('/centralMedicamento', [ContenteController::class, 'centralMedicamento'])->name('trabalhos.centralMedicamento');
 
+
   
 Route::post('/contacto_gravar', [ContactoController::class, 'store'])->name('contacto.gravar');
+Route::get('/blog_index', [BlogController::class, 'index'])->name('blog.index');
+Route::post('/blog_gravar', [BlogController::class, 'store'])->name('blog.gravar');
 Route::get('/service_detail', function () {
     return view('content.service_detail');
 });
@@ -48,8 +52,19 @@ Route::get('/admin', function () {
     return view('layout.admin');
 });
 
-
+Route::get('/admin_main', function () {
+    return view('layout.main_admin');
+});
 
 Route::get('/blog_detail', function () {
     return view('content.blog_detail');
+});
+
+
+Route::get('/blog_tabela', function () {
+    return view('content.blog_tabela');
+});
+
+Route::get('/blog_register', function () {
+    return view('content.blog_register');
 });

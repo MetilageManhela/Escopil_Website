@@ -32,7 +32,7 @@ Sobre Nos
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-img-wrapper pos-rel mb-30">
-                        <img class="shape-square" src="assets/img/shape/square-1.png" alt="Shape">
+                        <img class="shape-square" style="width: 40px; height: 40px;" src="assets/img/shape/0a5f047c4157a30eb15667e3dcc8bc6f.png" alt="Shape">
                         <img class="img-fluid" src="assets/img/about/pexels-monstera-9487242.jpg" alt="About Img">
                     </div>
                 </div>
@@ -82,7 +82,7 @@ Sobre Nos
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2>Visão</h2>
+                                <h2 style="color: #245FA7">Visão</h2>
                                 {{-- <h4>Company Foundation</h4> --}}
                                 <p><strong>Líderar na</strong> transformação de negócios, com recurso as potencialidades de tecnologia para melhor servir as necessidades de clientes.</p>
                             </div>
@@ -104,7 +104,7 @@ Sobre Nos
                         </div>
                         <div class="col-lg-6 ">
                             <div class="left-content mb-30">
-                                <h2>Missão</h2>
+                                <h2 style="color: #245FA7">Missão</h2>
                                 {{-- <h4>Construindo uma equipa sólida</h4> --}}
                                 <p>Desenvolver e implementar processos e tecnologias que contribuam para o desenvolvimento econômico e social do país, gerando valor e sustentabilidade associados às nossas acções.</p>
                             </div>
@@ -116,7 +116,7 @@ Sobre Nos
                     <div class="row timeline-box mb-10">
                         <div class="col-lg-6">
                             <div class="left-content mb-30">
-                                <h2>Valores</h2>
+                                <h2 style="color: #245FA7">Valores</h2>
                                 {{-- <h4>Company Foundation</h4>
                                 <p>The sontent provides fully integrated
                                     marketing services designed</p> --}}

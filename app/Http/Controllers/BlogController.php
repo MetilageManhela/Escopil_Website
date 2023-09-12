@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\blog;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class BlogController extends Controller
 {
@@ -14,7 +15,8 @@ class BlogController extends Controller
      */
     public function index()
     {
-        //
+        $blogs=blog::all();
+        return view('content.blog_tabela', compact('blogs'));
     }
 
     /**
@@ -35,7 +37,18 @@ class BlogController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $anexo = "";
+        if($request->file('foto')!=null){            
+        $anexo = $request->file('foto')->store('public/anexos');
+        }
+        $imagem = substr($anexo, 6, strlen($anexo) - 1);
+        $blog= new blog();
+        $blog->titulo=$request->titulo;
+        $blog->mensagem=$request->mensagem;
+        // $blog->user_id=Auth::user()->id;
+        $blog->imagem=$imagem;
+        $blog->save();
+        return redirect()->back();
     }
 
     /**

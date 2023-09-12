@@ -15,8 +15,8 @@ Contacto
                 <div class="col-lg-12">
                     <div class="page-title-wrapper pt-30 pt-lg-40 pt-md-10 pt-xs-10">
                         <ul class="breadcrumb">
-                            <li><a href="index.html">Home /</a></li>
-                            <li class="active" aria-current="page">Contacto</li>
+                            <li><a href="{{route('home.page')}}">Home /</a></li>
+                            <li class="active" aria-current="page" style="color: #096fec">Contacto</li>
                         </ul>
                         <h2 class="page-title">Entre em Contacto</h2>
                     </div>

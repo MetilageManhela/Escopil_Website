@@ -25,7 +25,7 @@ Ocorrencias
                                 <p>Facilite o precesso de Gestão  dos seus recursos apostando na Tecnologia <strong></strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
                                     {{-- <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li> --}}
-                                    <li><a class="theme_btn border_btn" href="#">Nossos Serviços</a></li>
+                                    <li><a class="theme_btn border_btn" href="{{route('service.page')}}">Nossos Serviços</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -52,7 +52,7 @@ Ocorrencias
                                 <p> Melhorar a eficiencia do seu Negócio  usando a Tecnologia e a razão  da nossa Existência <strong></strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
                                     {{-- <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li> --}}
-                                    <li><a class="theme_btn border_btn" href="#">Nossos Serviços</a></li>
+                                    <li><a class="theme_btn border_btn" href="{{route('service.page')}}">Nossos Serviços</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -75,16 +75,13 @@ Ocorrencias
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
-                                    Future of
-                                    <span class="bottom-shape">Business</span> Solution
+                                    Futuro da
+                                    <span class="bottom-shape">solução de</span> negócios
                                 </h1>
-                                <p>Seamlessly visualize quality intellectual capital
-                                    without
-                                    superior collaboration and base portals. <strong>$0 Monthly Service
-                                        Charge.</strong></p>
+                                <p>Trabalhamos Sempre Para Fazer A Diferença <strong>Trazendo Novas soluções  para a sua Empresa</strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
                                     {{-- <li><a class="theme_btn mr-30" href="#">Get Free Consultation</a></li> --}}
-                                    <li><a class="theme_btn border_btn" href="#">Our Services</a></li>
+                                    <li><a class="theme_btn border_btn" href="{{route('service.page')}}">Nossos Serviços</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -107,7 +104,7 @@ Ocorrencias
             <div class="col-lg-4">
                 <div class="single-feature">
                     <img class="f-icon" src="assets/img/feature/icon-1.png" alt="Feature Iocn">
-                    <h2>Visão</h2>
+                    <h2>Planejamento</h2>
                     <h6><span>01.</span> Business Strategy &</h6>
 
                 </div>
@@ -115,7 +112,7 @@ Ocorrencias
             <div class="col-lg-4" >
                 <div class="single-feature feat-3">
                     <img class="f-icon" src="assets/img/feature/icon-2.png" alt="Feature Iocn">
-                    <h2>Missão</h2>
+                    <h2>Organização</h2>
                     <h6><span>02.</span> Private Internet Access</h6>
 
                 </div>
@@ -123,7 +120,7 @@ Ocorrencias
             <div class="col-lg-4">
                 <div class="single-feature ">
                     <img class="f-icon" src="assets/img/feature/icon-3.png" alt="Feature Iocn">
-                    <h2>Valores</h2>
+                    <h2>Controle</h2>
                     <h6><span>03.</span> Customer Strategy &</h6>
 
                 </div>
@@ -138,7 +135,7 @@ Ocorrencias
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-img-wrapper pos-rel mb-30">
-                    <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape">
+                    <img class="shape-square" style="width: 50px; height: 50px;" src="{{asset('assets/img/shape/0a5f047c4157a30eb15667e3dcc8bc6f.png')}}" alt="Shape">
                     <img class="img-fluid" src="{{asset('assets/img/about/about-1.jpg')}}" alt="About Img">
                 </div>
             </div>
@@ -433,7 +430,7 @@ Ocorrencias
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
                         <h5>STAE</h5>
-                        <p>....</p>
+                        <p>Desenhamos e Integrámos o sistema ID Mobile para o uso no registo de ...</p>
                         
                         <img src="{{asset('assets/img/portfolio/portfolio7.jpg')}}" alt="Portfolio Img">
                     </div>
@@ -445,7 +442,7 @@ Ocorrencias
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
                         <h5>MOZA Banco</h5>
-                        <p>....</p>
+                        <p>Implementámos o Centro de Recepção de Alarmes (CRA), afim de ...</p>
                         
                         <img src="{{asset('assets/img/portfolio/portfolio8.jpg')}}" alt="Portfolio Img">
                     </div>
@@ -457,7 +454,7 @@ Ocorrencias
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
                         <h5>Counterpart International</h5>
-                        <p>....</p>
+                        <p>Concessão para desenvolver, conceber, implementar e operar o ...</p>
                         
                         <img src="{{asset('assets/img/portfolio/portfolio9.jpg')}}" alt="Portfolio Img">
                     </div>
@@ -469,7 +466,7 @@ Ocorrencias
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
                         <h5>CMAM</h5>
-                        <p>....</p>
+                        <p>Instalação da infraestrutura de rede & manutenção da infraestrutura de TIC ...</p>
                         
                         <img src="{{asset('assets/img/portfolio/portfolio10.png')}}" alt="Portfolio Img">
                     </div>
@@ -481,7 +478,7 @@ Ocorrencias
                 <div class="portfolio-wrapper mb-30">
                     <div class="single-portfolio white-bg">
                         <h5>EDM</h5>
-                        <p>....</p>
+                        <p>Implementámos o Sistema de Apoio Operacional e Comercial (CRM), ao qu...</p>
                         
                         <img src="{{asset('assets/img/portfolio/portfolio11.jpg')}}" alt="Portfolio Img">
                     </div>
@@ -528,7 +525,7 @@ Ocorrencias
                             class="fas fa-play"></i></a>
                     </div> -->
                 <div class="about-img-wrapper pos-rel mb-30">
-                    <img class="shape-square" src="{{asset('assets/img/shape/square-1.png')}}" alt="Shape">
+                    <img class="shape-square" style="width: 50px; height: 50px;" src="{{asset('assets/img/shape/0a5f047c4157a30eb15667e3dcc8bc6f.png')}}" alt="Shape">
                     <img style="height: 600px" class="img-fluid" src="{{asset('assets/img/about/ofuturo.jpg')}}" alt="About Img">
                 </div  
             </div>
