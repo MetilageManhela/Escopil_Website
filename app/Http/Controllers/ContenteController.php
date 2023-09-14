@@ -1,13 +1,14 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\blog;
 use Illuminate\Http\Request;
 
 class ContenteController extends Controller
 {
     public function menu(){
-        return view('layout.main');
+        $blogs=blog::all();
+        return view('layout.main', compact('blogs'));
     }
 
     public function contacto(){

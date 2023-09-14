@@ -18,6 +18,7 @@ class BlogController extends Controller
         $blogs=blog::all();
         return view('content.blog_tabela', compact('blogs'));
     }
+    
 
     /**
      * Show the form for creating a new resource.
@@ -57,9 +58,10 @@ class BlogController extends Controller
      * @param  \App\Models\blog  $blog
      * @return \Illuminate\Http\Response
      */
-    public function show(blog $blog)
+    public function show($id)
     {
-        //
+        $blog= blog::find($id);
+        return view('content.blog_detail', compact('blog'));
     }
 
     /**

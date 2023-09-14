@@ -39,7 +39,7 @@ Route::get('/edm', [ContenteController::class, 'edm'])->name('trabalhos.edm');
 Route::get('/mozaBanco', [ContenteController::class, 'mozaBanco'])->name('trabalhos.mozaBanco');
 Route::get('/centralMedicamento', [ContenteController::class, 'centralMedicamento'])->name('trabalhos.centralMedicamento');
 
-
+Route::get('blog/{id}', [BlogController::class, 'show']);
   
 Route::post('/contacto_gravar', [ContactoController::class, 'store'])->name('contacto.gravar');
 Route::get('/blog_index', [BlogController::class, 'index'])->name('blog.index');

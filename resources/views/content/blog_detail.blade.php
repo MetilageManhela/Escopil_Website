@@ -8,7 +8,7 @@ Ocorrencias
 
 <main>
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
+    {{-- <section class="page-title-area" style="background-image: url(assets/img/page-title/page-title-bg1.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
         <div class="container">
             <div class="row">
@@ -23,7 +23,7 @@ Ocorrencias
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--page-title-area end-->
     <!--services-area start-->
     <section class="news-details-area pt-105 pb-90 pt-md-60 pb-md-25 pt-xs-50 pb-xs-20">
@@ -53,18 +53,9 @@ Ocorrencias
                             you are confronted with the realization that the next step function in improving
                             conversion rates and business.
                         </p> --}}
-                        <img class="img-fluid" src="assets/img/blog/blog-15.jpg" alt="Blog Img">
-                        <h3 class="mt-55 mb-25"><a class="s-sub-title" href="blog-details.html">A cleansing
-                                hot shower or bath</a></h3>
-                        <p>The journey, often, starts “simple” with localization. But then, quickly advances
-                            to contextual pricing, juggling complexity of large and frequently updated product
-                            catalog, managing
-                            continuously running multivariate tests and promotion campaigns, and serving
-                            customer-tailored
-                            dynamic recommendations. Eventually, you reach a realization that every page is
-                            similar to an open Tetris
-                            board where each “slot” can and should be dynamically tailored by dynamic visitor
-                            preferences, all powered by an ever-growing set of dynamic business rules.</p>
+                        <img width="700px" height="300px" src="/storage{{$blog->imagem}}">
+                        <h3 class="mt-55 mb-25"><a class="s-sub-title" href="blog-details.html">{{$blog->titulo}}</a></h3>
+                        <p>{{$blog->mensagem}}</p>
 
                             <div class="blogs__meta">
                                 <span><i class="fal fa-eye"></i> 100 Views</span>
@@ -216,7 +207,7 @@ Ocorrencias
                                 </li>
                             </ul>
                         </div> --}}
-                        <div class="comment-form">
+                        {{-- <div class="comment-form">
                             <h3 class="post-title mb-35">Post Comment</h3>
                             <form class="contact-form" action="#">
                                 <div class="row">
@@ -247,30 +238,29 @@ Ocorrencias
                                     </div>
                                 </div>
                             </form>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="news-right-widget mb-30">
                         <div class="widget widget-author mb-40">
                             <div class="widget-title-box pb-25 mb-30">
-                                <h4 class="widget-sub-title2 fs-20">About Me</h4>
+                                <h4 class="widget-sub-title2 fs-20">Sobre a Empresa</h4>
                             </div>
                             <div class="widget-author-content text-center">
                                 <img src="assets/img/blog/author-blog1.jpg" alt="Img">
-                                <h5 class="mt-25 mb-15">Rosalina D. Willaimson</h5>
-                                <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore.</p>
+                                <h5 class="mt-25 mb-15">Escopil Tecnologia</h5>
+                                <p>Acreditamos fortemente que a tecnologia assume um papel crucial no desenvolvimento</p>
                                 <div class="author__social mt-25">
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-behance"></i></a>
+                                    {{-- <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-behance"></i></a> --}}
                                     <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                                    {{-- <a href="#"><i class="fab fa-google-plus-g"></i></a> --}}
                                 </div>
                             </div>
                         </div>
-                        <div class="widget widget-search mb-40">
+                        {{-- <div class="widget widget-search mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Search Here</h4>
                             </div>
@@ -278,7 +268,7 @@ Ocorrencias
                                 <input type="text" placeholder="Search your keyword...">
                                 <button style="background-color: #245FA7" class="subscribe-btn"><i class="fal fa-search"></i></button>
                             </form>
-                        </div>
+                        </div> --}}
                         {{-- <div class="widget widget-post mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Popular Feeds</h4>
@@ -334,7 +324,7 @@ Ocorrencias
                                 </li>
                             </ul>
                         </div> --}}
-                        <div class="widget widget-categories-list mb-40">
+                        {{-- <div class="widget widget-categories-list mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Categories</h4>
                             </div>
@@ -345,7 +335,7 @@ Ocorrencias
                                 <li><a href="#">UI/UX <span class="f-right">56</span></a></li>
                                 <li><a href="#">Technologys <span class="f-right">60</span></a></li>
                             </ul>
-                        </div>
+                        </div> --}}
                         {{-- <div class="widget widget-categories-tag mb-40">
                             <div class="widget-title-box pb-25 mb-30">
                                 <h4 class="widget-sub-title2 fs-20">Instagram Feeds</h4>

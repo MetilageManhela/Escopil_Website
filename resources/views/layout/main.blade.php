@@ -553,7 +553,7 @@ Ocorrencias
 </section>
 <!--cta-area end-->
 <!--blog-area start-->
-<section class="blog-area pt-120 pb-90 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
+{{-- <section class="blog-area pt-120 pb-90 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -603,7 +603,7 @@ Ocorrencias
                     <div class="blogs__thumb mb-35">
                         <a href="blog-details.html">
                             <img src="{{asset('assets/img/blog/Capture.PNG')}}" alt="Blog Img">
-                            {{-- <img src="{{asset('assets/img/blog/blog-3.jpg')}}" alt="Blog Img"> --}}
+                      
                         </a>
 
                     </div>
@@ -618,7 +618,51 @@ Ocorrencias
             </div>
         </div>
     </div>
+</section> --}}
+
+
+
+
+{{-- blog add --}}
+
+<section class="grey-bg2 portfolio-area portfolio-nav pt-120 pb-120 pt-md-60 pb-md-30 pt-xs-60 pb-xs-30">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title text-center mb-60">
+                    <h6 class="semi-title mb-10">Portfolio</h6>
+                    <h2 class="sect-title">Blog</h2>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-slide owl-carousel">
+            @foreach ($blogs as $blog)
+         
+            <div class="blogs mb-30">
+                <div class="blogs__thumb mb-35">
+                    <a href="{{url("/blog/$blog->id")}}">
+                        {{-- <img src="{{asset('assets/img/blog/Capture.PNG')}}" alt="Blog Img"> --}}
+                        <img width="100px" height="100px" src="/storage{{$blog->imagem}}">
+                        {{-- <img src="{{asset('assets/img/blog/blog-3.jpg')}}" alt="Blog Img"> --}}
+                    </a>
+
+                </div>
+                {{-- <span class="tag" style="background-color: #143966">Business</span> --}}
+                <div class="blogs__meta mb-1">
+                    <span>{{$blog->created_at}} / By </span>
+                    <span class="author">Admin</span>
+                </div>
+                <h5><a class="blog-title" href="blog-details.html">{{$blog->titulo}}</a></h5>
+            </div>
+           @endforeach
+
+        </div>
+    </div>
 </section>
+
+{{-- end Blog add --}}
+
+
 
 
 <section class="brand-area pb-60 pb-md-10 pb-xs-10">
