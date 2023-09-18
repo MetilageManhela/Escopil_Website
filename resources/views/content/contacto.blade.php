@@ -7,6 +7,11 @@ Contacto
 @section('conteudo')
 
 <main>
+      <!--jquery-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <!--jquery-validate-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <!--page-title-area start-->
     <section class="page-title-area" style="background-image: url(assets/img/page-title/contacto.jpg);">
         <img class="right-shape" src="assets/img/cta/dot-shape-1.png" alt="Dot Pattern">
@@ -42,21 +47,21 @@ Contacto
                                 <h6 class="semi-title mb-10">Faça solicitação personalizada</h6>
                                 <h2 class="sect-title mb-35">Fale nos sobre os seus projectos</h2>
                             </div>
-                            <form class="row contact-form" action="{{route('contacto.gravar')}}" method="POST">
+                            <form class="row contact-form" name="formulario_cliente" action="{{route('contacto.gravar')}}" method="POST" id="formulario_cliente">
                                 @csrf
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mb-20">
-                                        <input name="nome" type="text" placeholder="Full name">
+                                        <input name="nome" type="text" placeholder="Nome Coletivo/Pessoal" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mail-input mb-20">
-                                        <input name="email" type="text" placeholder="Email address">
+                                        <input name="email" type="email" placeholder="Email" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6">
                                     <div class="input-box mail-input mb-20">
-                                        <input name="assunto" type="text" placeholder="Assunto">
+                                        <input name="assunto" type="text" placeholder="Assunto" required>
                                     </div>
                                 </div>
                                 {{-- <div class="col-lg-6 col-md-6 mb-20">
@@ -72,12 +77,12 @@ Contacto
                                 <div class="col-12">
                                     <div class="input-box text-input mb-30">
                                         <textarea name="mensagem" cols="30" rows="10"
-                                            placeholder="Enter massge"></textarea>
+                                            placeholder="Escreva a mensagem"></textarea>
                                     </div>
                                 </div>
 
                                 <div class="col-12">
-                                    <button class="form-btn" style="background-color: #245FA7">Submeter</button>
+                                    <button type="submit" class="form-btn" id="submeter" style="background-color: #245FA7">Submeter</button>
                                 </div>
                             </form>
                         </div>
@@ -141,4 +146,42 @@ Contacto
 
 
 </main>
+<script>
+
+    $("#formulario_cliente").validate({
+    //     submitHandler: function(form) {
+    // //    form.submit();
+    //  salvar();
+    //  }
+   });
+
+//    function salvar (){
+//     $("#submeter").html('Processando..');
+
+//       $.ajax({
+//         data: $('#formulario_cliente').serialize(),
+//         url: "{{ route('send') }}",
+//         type: "POST",
+//         dataType: 'json',
+//         success: function (data) {
+//             $("#submeter").html('Sucesso');
+//         },
+//         error: function (data) {
+//             console.log('Error:', data);
+//             $("#submeter").html('Erro');
+//         }
+//     });
+
+// }
+
+// $(function() {
+//     $.ajaxSetup({
+//           headers: {
+//               'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+//           }
+//     });
+
+
+// });
+</script>
 @endsection

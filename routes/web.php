@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContenteController;
 use App\Http\Controllers\ContactoController;
 use App\Http\Controllers\BlogController;
+use App\Http\Controllers\EmailController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,7 +14,7 @@ use App\Http\Controllers\BlogController;
 | routes are loaded by the RouteServiceProvider within a group which
 | contains the "web" middleware group. Now create something great!
 |
-*/ 
+*/
 Route::get('/', [ContenteController::class, 'menu'])->name('home.page');
 Route::get('/contact', [ContenteController::class, 'contacto'])->name('contacto.page');
 Route::get('/about_us', [ContenteController::class, 'sobreNos'])->name('about_us.page');
@@ -39,8 +40,9 @@ Route::get('/edm', [ContenteController::class, 'edm'])->name('trabalhos.edm');
 Route::get('/mozaBanco', [ContenteController::class, 'mozaBanco'])->name('trabalhos.mozaBanco');
 Route::get('/centralMedicamento', [ContenteController::class, 'centralMedicamento'])->name('trabalhos.centralMedicamento');
 
+Route::get('/send', [EmailController::class, 'send'])->name('send');
 
-  
+
 Route::post('/contacto_gravar', [ContactoController::class, 'store'])->name('contacto.gravar');
 Route::get('/blog_index', [BlogController::class, 'index'])->name('blog.index');
 Route::post('/blog_gravar', [BlogController::class, 'store'])->name('blog.gravar');

@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\contacto;
 use Illuminate\Http\Request;
-
+use App\Http\Controllers\EmailController;
 class ContactoController extends Controller
 {
     /**
@@ -39,9 +39,13 @@ class ContactoController extends Controller
         $contacto->email=$request->email;
         $contacto->assunto=$request->assunto;
         $contacto->mensagem=$request->mensagem;
-        $contacto->save();
+        if($contacto->save()){
+           $email=new EmailController();
+           $email->send("mmmm",$request->mensagem, $request->assunto, $request->email, $request->nome);
+           $email->sendRetorno( $request->email,$request->nome);
+        }
         return redirect()->back();
-    }
+     }
 
     /**
      * Display the specified resource.
