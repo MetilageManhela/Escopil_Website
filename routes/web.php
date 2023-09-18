@@ -43,6 +43,8 @@ Route::get('/centralMedicamento', [ContenteController::class, 'centralMedicament
 Route::get('/send', [EmailController::class, 'send'])->name('send');
 
 
+Route::get('blog/{id}', [BlogController::class, 'show']);
+
 Route::post('/contacto_gravar', [ContactoController::class, 'store'])->name('contacto.gravar');
 Route::get('/blog_index', [BlogController::class, 'index'])->name('blog.index');
 Route::post('/blog_gravar', [BlogController::class, 'store'])->name('blog.gravar');

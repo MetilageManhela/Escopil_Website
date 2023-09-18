@@ -205,7 +205,7 @@
 													</li> --}}
 												</ul>
 											</li>
-											<li class="nav-item dropdown">
+											{{-- <li class="nav-item dropdown">
 												<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4"
 													role="button" data-bs-toggle="dropdown" aria-expanded="false">Páginas
 													<i class="fal fa-chevron-down"></i></a>
@@ -234,7 +234,7 @@
 														<a class="dropdown-item" href="faq.html">Faq</a>
 													</li>
 												</ul>
-											</li>
+											</li> --}}
 											<li class="nav-item dropdown">
 												<a class="nav-link dropdown-toggle" href="blog.html"
 													id="navbarDropdown5" role="button" data-bs-toggle="dropdown"
@@ -393,16 +393,13 @@
 				<div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay=".1s">
 					<div class="footer__widget mb-30">
 						<h6 class="widget-title text-white pb-20 mb-35">A Empresa</h6>
-						<p>Modern HMIs are transforming the way
-							we interact with our vehicles. A becomes
-							a gadget that we use in a similar way as
-							we use our phones.
+						<p>Acreditamos fortemente que a tecnologia assume um papel crucial no desenvolvimento
 						</p>
 						<div class="footer__social mt-30">
-							<a href="#"><i class="fab fa-facebook-f"></i></a>
-							<a href="#"><i class="fab fa-twitter"></i></a>
-							<a href="#"><i class="fab fa-linkedin-in"></i></a>
-							<a href="#"><i class="fab fa-google-plus-g"></i></a>
+							<a href="https://web.facebook.com/Escopil407?_rdc=1&_rdr"><i class="fab fa-facebook-f"></i></a>
+							{{-- <a href="#"><i class="fab fa-twitter"></i></a> --}}
+							<a href="https://www.linkedin.com/company/escopil-tecnologia/"><i class="fab fa-linkedin-in"></i></a>
+							{{-- <a href="#"><i class="fab fa-google-plus-g"></i></a> --}}
 						</div>
 					</div>
 				</div>
@@ -410,12 +407,12 @@
 					<div class="border-theme footer__widget mb-30 pl-135 pl-md-0 pl-xs-0">
 						<h6 class="widget-title text-white pb-20 mb-35">Nossos Serviços</h6>
 						<ul class="fot-list">
-							<li><a href="#">Infra-Estrutura</a></li>
-							<li><a href="#">Segurança</a></li>
-							<li><a href="#">R&D</a></li>
-							<li><a href="#">Gestão de Projectos</a></li>
-							<li><a href="#">ERP Next</a></li>
-							<li><a href="#">Análise de Sistemas</a></li>
+							<li><a href="{{route('infra_estrutura.pages')}}">Infra-Estrutura</a></li>
+							<li><a href="{{route('seguranca.pages')}}">Segurança</a></li>
+							<li><a href="{{route('rd.pages')}}">R&D</a></li>
+							<li><a href="{{route('gestao_projecto.pages')}}">Gestão de Projectos</a></li>
+							<li><a href="{{route('erpnext.pages')}}">ERP Next</a></li>
+							<li><a href="{{route('analise_sistema.pages')}}">Análise de Sistemas</a></li>
 						</ul>
 					</div>
 				</div>
@@ -424,8 +421,8 @@
 						<h6 class="widget-title text-white pb-20 mb-35">Entre em Contacto</h6>
 						<ul class="fot-list fot-list-1">
 							<li><a href="#">(+258) 849250566  (+258)21492725</a></li>
-							<li><a href="https://web.facebook.com/Escopil407?_rdc=1&_rdr">Facebook</a></li>
-							<li><a href="https://www.linkedin.com/company/escopil-tecnologia/">Linkedin</a></li>
+							{{-- <li><a href="https://web.facebook.com/Escopil407?_rdc=1&_rdr">Facebook</a></li>
+							<li><a href="https://www.linkedin.com/company/escopil-tecnologia/">Linkedin</a></li> --}}
 							{{-- <li><a href="https://web.facebook.com/?locale=pt_BR&_rdc=1&_rdr">Horário: <span style="color: aliceblue">08h - 17h</span></a> --}}
 							</li>
 							<li>
@@ -461,7 +458,7 @@
 				</div>
 				<div class="col-lg-6 col-md-8 text-center text-md-end">
 					<ul class="footer-nav">
-						<li class="nav-item">
+						{{-- <li class="nav-item">
 							<a class="nav-link" href="about.html">Sobre Nós</a>
 						</li>
 						<li class="nav-item">
@@ -469,9 +466,9 @@
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="blog-details.html">Blog</a>
-						</li>
+						</li> --}}
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">Contacte-nos</a>
+							<a class="nav-link" href="{{route('contacto.page')}}">Contacte-nos</a>
 						</li>
 					</ul>
 				</div>
