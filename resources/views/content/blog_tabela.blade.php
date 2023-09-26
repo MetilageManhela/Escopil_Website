@@ -5,7 +5,10 @@
 @endsection
 
 @section('conteudo')
-<button style="margin-left: 95%; width: 50px" type="button" class="btn btn-outline-primary">+</button>
+<a href="{{route('blog.registro')}}">
+  <button style="margin-left: 95%; width: 50px" type="button" class="btn btn-outline-primary">+</button>
+</a>
+{{--  --}}
 
 <table id="example" class="table table-striped" style="width:100%">
     <thead>
@@ -16,7 +19,7 @@
             <th>Imagem</th>
             <th>data de Registo</th>
             <th> Acção</th>
-          
+
         </tr>
     </thead>
     <tbody>
@@ -32,7 +35,7 @@
                 <button type="button" class="btn btn-warning"><i class="fa fa-eye" aria-hidden="true"></i></button>
                 <button type="button" class="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i></button>
             </td>
-          
+
         </tr>
         @endforeach
     </tbody>
@@ -47,7 +50,7 @@
         </tr>
     </tfoot>
 </table>
-							
+
 @endsection
 
 @section('js')

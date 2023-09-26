@@ -18,7 +18,14 @@ class BlogController extends Controller
         $blogs=blog::all();
         return view('content.blog_tabela', compact('blogs'));
     }
-    
+
+
+    public function registo_blog()
+    {
+        return view('content.blog_register');
+    }
+
+
 
     /**
      * Show the form for creating a new resource.
@@ -39,7 +46,7 @@ class BlogController extends Controller
     public function store(Request $request)
     {
         $anexo = "";
-        if($request->file('foto')!=null){            
+        if($request->file('foto')!=null){
         $anexo = $request->file('foto')->store('public/anexos');
         }
         $imagem = substr($anexo, 6, strlen($anexo) - 1);

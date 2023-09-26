@@ -15,12 +15,12 @@ Ocorrencias
                     <div class="dodlle-one two"></div>
                     <div class="dodlle-one three"></div>
                     <div class="row align-items-center" style="background-color: #245FA7">
-                        
+
                         <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                             <div class="slider__content">
                                 <h1 class="main-title-one">
                                     A Sua Satisfação é Nossa
-                                    <span class="bottom-shape">Prioridade</span> 
+                                    <span class="bottom-shape">Prioridade</span>
                                 </h1>
                                 <p>Facilite o precesso de Gestão  dos seus recursos apostando na Tecnologia <strong></strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
@@ -47,7 +47,7 @@ Ocorrencias
                             <div class="slider__content">
                                 <h1 class="main-title-one">
                                     A Sua Satisfação é Nossa
-                                    <span class="bottom-shape">Prioridade</span> 
+                                    <span class="bottom-shape">Prioridade</span>
                                 </h1>
                                 <p> Melhorar a eficiencia do seu Negócio  usando a Tecnologia e a razão  da nossa Existência <strong></strong></p>
                                 <ul class="btn-list d-md-flex align-items-center mt-45">
@@ -58,7 +58,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                              
+
                                 <img class="img-fluid" src="{{ asset('assets/img/slider/slide2.png') }}" alt="Hero Img">
 
                             </div>
@@ -87,7 +87,7 @@ Ocorrencias
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="slider-right">
-                                <img class="img-fluid" src="assets/img/slider/slide3.png" alt="Hero Img">  
+                                <img class="img-fluid" src="assets/img/slider/slide3.png" alt="Hero Img">
                             </div>
                         </div>
                     </div>
@@ -105,15 +105,16 @@ Ocorrencias
                 <div class="single-feature">
                     <img class="f-icon" src="assets/img/feature/icon-1.png" alt="Feature Iocn">
                     <h2>Planejamento</h2>
-                    <h6><span>01.</span> Business Strategy &</h6>
+                    {{-- <h6><span>01.</span> Business Strategy &</h6> --}}
 
                 </div>
             </div>
             <div class="col-lg-4" >
                 <div class="single-feature feat-3">
                     <img class="f-icon" src="assets/img/feature/icon-2.png" alt="Feature Iocn">
+                    {{-- <img class="f-icon" src="{{ asset('assets\img\home\planejamento.png') }}" alt="Feature Iocn"> --}}
                     <h2>Organização</h2>
-                    <h6><span>02.</span> Private Internet Access</h6>
+                    {{-- <h6><span>02.</span> Private Internet Access</h6> --}}
 
                 </div>
             </div>
@@ -121,7 +122,7 @@ Ocorrencias
                 <div class="single-feature ">
                     <img class="f-icon" src="assets/img/feature/icon-3.png" alt="Feature Iocn">
                     <h2>Controle</h2>
-                    <h6><span>03.</span> Customer Strategy &</h6>
+                    {{-- <h6><span>03.</span> Customer Strategy &</h6> --}}
 
                 </div>
             </div>
@@ -143,7 +144,7 @@ Ocorrencias
                 <div class="about-content-wrapper pl-60">
                     <div class="section-title">
                         <h6 class="semi-title mb-10">Sobre Nós</h6>
-                        <h2 class="sect-title mb-30">Missão & Visão &
+                        <h2 class="sect-title mb-30">Missão, Visão &
                             <span class="bottom-shape"></span> Valores</h2>
                         <p class="paragraph-title">Escopil Tecnologia afirma-se, com orgulho, como empresa moçambicana a trabalhar para o mercado moçambicano desde 1998, sendo hoje uma referência no mercado das Tecnologias de Comunicação e Informação. <strong>Tecnologias de Comunicação e Informação.</strong>
                         </p>
@@ -200,7 +201,7 @@ Ocorrencias
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center mb-45">
-                    <h6 class="semi-title mb-10">Serviços</h6>
+                    {{-- <h6 class="semi-title mb-10">Serviços</h6> --}}
                     <h2 class="sect-title">Nossos serviços</h2>
                 </div>
             </div>
@@ -214,7 +215,7 @@ Ocorrencias
                     <div class="services__content text-center" style="background-color: #143966">
                         <h5   class="service-text"><img src="{{asset('assets/img/icon/s-icon2.png')}}" alt="Icon"> Infra-Estrutura</h5>
                         <p>Infra-estruturas de comunicação que consistem na montagem de redes e infra-estruturas de Tecnologias de Informação...</p>
-                        <a class="service-btn" href="{{route('infra_estrutura.pages')}}">Mais Detalhes<i 
+                        <a class="service-btn" href="{{route('infra_estrutura.pages')}}">Mais Detalhes<i
                                 class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -252,7 +253,7 @@ Ocorrencias
 <!--brand-area start-->
 
 <!--brand-area end-->
-<!--faq-area start 
+<!--faq-area start
 <section class="faq-area pt-60 pb-90 pt-md-50 pb-md-30 pt-xs-50 pb-xs-30">
     <div class="container">
         <div class="row">
@@ -346,7 +347,7 @@ Ocorrencias
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center mb-60">
-                    <h6 class="semi-title mb-10">Portfolio</h6>
+                    {{-- <h6 class="semi-title mb-10">Portfolio</h6> --}}
                     <h2 class="sect-title">Nossos Trabalhos</h2>
                 </div>
             </div>
@@ -357,7 +358,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>Ministério da Ciência e Tecnologia</h5>
                         <p>Desenvolvemos o portal e a biblioteca de informação digital, incluindo a ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio-1.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.ministerio')}}">Ler Mais<i
@@ -371,7 +372,7 @@ Ocorrencias
                         <p>Provisão de serviços de Migração de Ambientes da Ferramenta Central...
 
                         </p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio-2.png')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.jsh')}}">Ler Mais<i
@@ -383,7 +384,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>Autoridade Tributária – Ministério das Finanças</h5>
                         <p>Gestão da concessão para a implementação do sistema de...</p>
-                       
+
                         <img src="{{asset('assets/img/portfolio/portfolio-3.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.autoridadeTributaria')}}">Ler Mais<i
@@ -395,7 +396,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>CISM– Centro de investigação de Saúde de Manhiça</h5>
                         <p>Concepção, desenvolvimento e Implementação de um Sistema de ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio-4.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.cism')}}">Ler Mais<i
@@ -407,7 +408,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>Instituto Nacional de Viação (INAV)</h5>
                         <p>Desenhámos um sistema de registo de veículos e automatização das c...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio5.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.inav')}}">Ler Mais<i
@@ -419,7 +420,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>Revimo – Rede Viária de Moçambique, S.A</h5>
                         <p>Instalação da infraestrutura de rede & manutenção da infraestrutura de TIC ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio6.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.revimo')}}">Ler Mais<i
@@ -431,7 +432,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>STAE</h5>
                         <p>Desenhamos e Integrámos o sistema ID Mobile para o uso no registo de ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio7.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.stae')}}">Ler Mais<i
@@ -443,7 +444,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>MOZA Banco</h5>
                         <p>Implementámos o Centro de Recepção de Alarmes (CRA), afim de ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio8.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.mozaBanco')}}">Ler Mais<i
@@ -455,7 +456,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>Counterpart International</h5>
                         <p>Concessão para desenvolver, conceber, implementar e operar o ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio9.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.counterpart')}}">Ler Mais<i
@@ -467,7 +468,7 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>CMAM</h5>
                         <p>Instalação da infraestrutura de rede & manutenção da infraestrutura de TIC ...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio10.png')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.centralMedicamento')}}">Ler Mais<i
@@ -479,14 +480,14 @@ Ocorrencias
                     <div class="single-portfolio white-bg">
                         <h5>EDM</h5>
                         <p>Implementámos o Sistema de Apoio Operacional e Comercial (CRM), ao qu...</p>
-                        
+
                         <img src="{{asset('assets/img/portfolio/portfolio11.jpg')}}" alt="Portfolio Img">
                     </div>
                     <a class="read-btn" href="{{route('trabalhos.edm')}}">Ler Mais<i
                             class="fal fa-long-arrow-right"></i></a>
                 </div>
             </div>
-            
+
 
         </div>
     </div>
@@ -500,10 +501,10 @@ Ocorrencias
                 <div class="core-wrapper mb-30">
                     <div class="section-title pr-70">
                         <h6 class="semi-title mb-10"></h6>
-                        <h2 class="sect-title mb-30">O futuro  
+                        <h2 class="sect-title mb-30">O futuro
                             <span class="bottom-shape">é</span> já Amanhã</h2>
-                        <p class="paragraph-title mb-50">Estamos, neste momento, a alargar a nossa 
-                            oferta de produtos e serviços, quer na área de 
+                        <p class="paragraph-title mb-50">Estamos, neste momento, a alargar a nossa
+                            oferta de produtos e serviços, quer na área de
                             infraestruturas de TIC, quer na área de ciberse
                             -
                             gurança, e software, de forma a podermos re
@@ -527,7 +528,7 @@ Ocorrencias
                 <div class="about-img-wrapper pos-rel mb-30">
                     <img class="shape-square" style="width: 50px; height: 50px;" src="{{asset('assets/img/shape/0a5f047c4157a30eb15667e3dcc8bc6f.png')}}" alt="Shape">
                     <img style="height: 600px" class="img-fluid" src="{{asset('assets/img/about/ofuturo.jpg')}}" alt="About Img">
-                </div  
+                </div
             </div>
         </div>
     </div>
@@ -544,8 +545,8 @@ Ocorrencias
             <div class="col-lg-4 col-md-12 text-center text-lg-end">
                 <div class="cta-box mb-30">
                     <img class="cta-icon" src="{{asset('assets/img/icon/mail-1.png')}}" alt="Icon">
-                    <span>Free Consultancy</span>
-                    <h5>info@webmail.com</h5>
+                    <span> Consultoria Gratuita</span>
+                    <h5> comercial.tec@escopil.co.mz </h5>
                 </div>
             </div>
         </div>
@@ -603,7 +604,7 @@ Ocorrencias
                     <div class="blogs__thumb mb-35">
                         <a href="blog-details.html">
                             <img src="{{asset('assets/img/blog/Capture.PNG')}}" alt="Blog Img">
-                      
+
                         </a>
 
                     </div>
@@ -637,7 +638,7 @@ Ocorrencias
         </div>
         <div class="portfolio-slide owl-carousel">
             @foreach ($blogs as $blog)
-         
+
             <div class="blogs mb-30">
                 <div class="blogs__thumb mb-35">
                     <a href="{{url("/blog/$blog->id")}}">

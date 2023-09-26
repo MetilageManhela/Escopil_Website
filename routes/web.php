@@ -48,6 +48,7 @@ Route::get('blog/{id}', [BlogController::class, 'show']);
 Route::post('/contacto_gravar', [ContactoController::class, 'store'])->name('contacto.gravar');
 Route::get('/blog_index', [BlogController::class, 'index'])->name('blog.index');
 Route::post('/blog_gravar', [BlogController::class, 'store'])->name('blog.gravar');
+Route::get('/blog_registo', [BlogController::class, 'registo_blog'])->name('blog.registro');
 Route::get('/service_detail', function () {
     return view('content.service_detail');
 });
